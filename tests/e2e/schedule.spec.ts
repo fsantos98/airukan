@@ -15,7 +15,9 @@ test.describe("Homepage", () => {
     expect(hasCards || hasEmpty).toBe(true);
   });
 
-  test("countdown element exists when anime cards are present", async ({ page }) => {
+  test("countdown element exists when anime cards are present", async ({
+    page,
+  }) => {
     await page.goto("/");
     const cards = page.locator("article");
     if ((await cards.count()) > 0) {
@@ -49,7 +51,9 @@ test.describe("Schedule Page", () => {
       "Sunday",
     ];
     for (const day of days) {
-      await expect(page.getByRole("heading", { name: new RegExp(day, "i") })).toBeVisible();
+      await expect(
+        page.getByRole("heading", { name: new RegExp(day, "i") }),
+      ).toBeVisible();
     }
   });
 

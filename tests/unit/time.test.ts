@@ -1,5 +1,10 @@
 import { describe, it, expect } from "vitest";
-import { getCountdown, formatCountdown, getTodayName, WEEKDAYS } from "../../src/lib/time";
+import {
+  getCountdown,
+  formatCountdown,
+  getTodayName,
+  WEEKDAYS,
+} from "../../src/lib/time";
 
 describe("getCountdown", () => {
   it("returns correct breakdown for a future date", () => {
