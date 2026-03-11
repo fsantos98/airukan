@@ -1,0 +1,33 @@
+---
+import type { AnimeEntry } from "../lib/types";
+import AnimeCard from "./AnimeCard.astro";
+
+interface Props {
+  day: string;
+  entries: AnimeEntry[];
+}
+
+const { day, entries } = Astro.props;
+
+const dayLabel = day.charAt(0).toUpperCase() + day.slice(1);
+---
+
+<section>
+  <h2 class="mb-4 text-lg font-bold text-primary-light capitalize">
+    {dayLabel}
+    <span class="ml-2 text-sm font-normal text-text-muted">
+      ({entries.length} anime)
+    </span>
+  </h2>
+  {entries.length > 0 ? (
+    <div class="flex flex-col gap-3">
+      {entries.map((anime) => (
+        <AnimeCard anime={anime} />
+      ))}
+    </div>
+  ) : (
+    <p class="rounded-lg bg-surface-light p-6 text-center text-text-muted">
+      Nothing airing
+    </p>
+  )}
+</section>

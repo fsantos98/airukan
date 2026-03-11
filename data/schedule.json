@@ -1,0 +1,101 @@
+{
+  "generated_at": "2025-03-01T14:05:00Z",
+  "week": {
+    "monday": [
+      {
+        "id": 54857,
+        "title": "Sousou no Frieren",
+        "title_en": "Frieren: Beyond Journey's End",
+        "cover": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
+        "genres": ["Adventure", "Drama", "Fantasy"],
+        "score": 9.3,
+        "airing_day": "monday",
+        "airing_time_jst": "23:00",
+        "next_episode": 20,
+        "total_episodes": 28,
+        "next_air_utc": "2026-03-16T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/54857"
+      }
+    ],
+    "tuesday": [],
+    "wednesday": [
+      {
+        "id": 55701,
+        "title": "Shangri-La Frontier 2nd Season",
+        "title_en": "Shangri-La Frontier Season 2",
+        "cover": "https://cdn.myanimelist.net/images/anime/1764/143089l.jpg",
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "score": 8.2,
+        "airing_day": "wednesday",
+        "airing_time_jst": "17:00",
+        "next_episode": 14,
+        "total_episodes": 24,
+        "next_air_utc": "2026-03-18T08:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/55701"
+      }
+    ],
+    "thursday": [],
+    "friday": [
+      {
+        "id": 52991,
+        "title": "Ore dake Level Up na Ken",
+        "title_en": "Solo Leveling",
+        "cover": "https://cdn.myanimelist.net/images/anime/1233/142626l.jpg",
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "score": 8.7,
+        "airing_day": "friday",
+        "airing_time_jst": "00:00",
+        "next_episode": 8,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-13T15:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/52991"
+      }
+    ],
+    "saturday": [
+      {
+        "id": 53446,
+        "title": "Jujutsu Kaisen 3rd Season",
+        "title_en": "Jujutsu Kaisen Season 3",
+        "cover": "https://cdn.myanimelist.net/images/anime/1233/140689l.jpg",
+        "genres": ["Action", "Drama", "Supernatural"],
+        "score": 8.6,
+        "airing_day": "saturday",
+        "airing_time_jst": "23:30",
+        "next_episode": 5,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-14T14:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/53446"
+      },
+      {
+        "id": 56885,
+        "title": "One Piece",
+        "title_en": "One Piece",
+        "cover": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "score": 8.7,
+        "airing_day": "saturday",
+        "airing_time_jst": "09:30",
+        "next_episode": 1130,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-14T00:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/56885"
+      }
+    ],
+    "sunday": [
+      {
+        "id": 51009,
+        "title": "Oshi no Ko 2nd Season",
+        "title_en": "Oshi No Ko Season 2",
+        "cover": "https://cdn.myanimelist.net/images/anime/1233/141882l.jpg",
+        "genres": ["Drama", "Supernatural"],
+        "score": 8.1,
+        "airing_day": "sunday",
+        "airing_time_jst": "23:00",
+        "next_episode": 10,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-15T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/51009"
+      }
+    ]
+  }
+}

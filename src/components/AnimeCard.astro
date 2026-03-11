@@ -1,0 +1,59 @@
+---
+import type { AnimeEntry } from "../lib/types";
+import CountdownTimer from "./CountdownTimer";
+
+interface Props {
+  anime: AnimeEntry;
+}
+
+const { anime } = Astro.props;
+
+const episodeText =
+  anime.total_episodes
+    ? `Ep ${anime.next_episode} / ${anime.total_episodes}`
+    : `Ep ${anime.next_episode}`;
+---
+
+<article class="flex gap-4 rounded-xl bg-surface-light p-4 transition-colors hover:bg-surface-lighter">
+  <img
+    src={anime.cover || "/placeholder.svg"}
+    alt={anime.title_en}
+    class="h-36 w-24 rounded-lg object-cover"
+    loading="lazy"
+    width="96"
+    height="144"
+  />
+  <div class="flex flex-1 flex-col justify-between">
+    <div>
+      <h3 class="font-semibold text-text leading-tight">
+        <a
+          href={anime.mal_url}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="hover:text-primary-light transition-colors"
+        >
+          {anime.title_en}
+        </a>
+      </h3>
+      {anime.title_en !== anime.title && (
+        <p class="mt-0.5 text-xs text-text-muted">{anime.title}</p>
+      )}
+      <div class="mt-2 flex flex-wrap gap-1.5">
+        {anime.genres.slice(0, 3).map((genre) => (
+          <span class="rounded-full bg-surface-lighter px-2 py-0.5 text-xs text-text-muted">
+            {genre}
+          </span>
+        ))}
+      </div>
+    </div>
+    <div class="mt-3 flex items-end justify-between">
+      <div class="text-sm">
+        <span class="text-text-muted">{episodeText}</span>
+        {anime.score !== null && (
+          <span class="ml-2 text-primary-light">★ {anime.score}</span>
+        )}
+      </div>
+      <CountdownTimer client:load nextAirUtc={anime.next_air_utc} />
+    </div>
+  </div>
+</article>
