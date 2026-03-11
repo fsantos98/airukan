@@ -1,124 +1,1747 @@
 {
-    "generated_at": "2025-03-01T14:05:00Z",
-    "week": {
-        "monday": [
-            {
-                "id": 54857,
-                "title": "Sousou no Frieren",
-                "title_en": "Frieren: Beyond Journey's End",
-                "cover": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-                "genres": [
-                    "Adventure",
-                    "Drama",
-                    "Fantasy"
-                ],
-                "score": 9.3,
-                "airing_day": "monday",
-                "airing_time_jst": "23:00",
-                "next_episode": 20,
-                "total_episodes": 28,
-                "next_air_utc": "2026-03-16T14:00:00Z",
-                "mal_url": "https://myanimelist.net/anime/54857"
-            }
+  "generated_at": "2026-03-11T12:05:31.565336Z",
+  "week": {
+    "monday": [
+      {
+        "id": 62523,
+        "title": "Uso Tantei Tomanto",
+        "title_en": "Uso Tantei Tomanto",
+        "cover": "https://myanimelist.net/images/anime/1745/152126l.jpg",
+        "genres": [
+          "Mystery"
         ],
-        "tuesday": [],
-        "wednesday": [
-            {
-                "id": 55701,
-                "title": "Shangri-La Frontier 2nd Season",
-                "title_en": "Shangri-La Frontier Season 2",
-                "cover": "https://cdn.myanimelist.net/images/anime/1764/143089l.jpg",
-                "genres": [
-                    "Action",
-                    "Adventure",
-                    "Fantasy"
-                ],
-                "score": 8.2,
-                "airing_day": "wednesday",
-                "airing_time_jst": "17:00",
-                "next_episode": 14,
-                "total_episodes": 24,
-                "next_air_utc": "2026-03-18T08:00:00Z",
-                "mal_url": "https://myanimelist.net/anime/55701"
-            }
+        "score": null,
+        "airing_day": "monday",
+        "airing_time_jst": "Unknown",
+        "next_episode": 27,
+        "total_episodes": 26,
+        "next_air_utc": "2026-03-11T12:05:31.563184Z",
+        "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
+      },
+      {
+        "id": 54871,
+        "title": "Shin Nippon History",
+        "title_en": "Shin Nippon History",
+        "cover": "https://myanimelist.net/images/anime/1433/134811l.jpg",
+        "genres": [
+          "Comedy"
         ],
-        "thursday": [],
-        "friday": [
-            {
-                "id": 52991,
-                "title": "Ore dake Level Up na Ken",
-                "title_en": "Solo Leveling",
-                "cover": "https://cdn.myanimelist.net/images/anime/1233/142626l.jpg",
-                "genres": [
-                    "Action",
-                    "Adventure",
-                    "Fantasy"
-                ],
-                "score": 8.7,
-                "airing_day": "friday",
-                "airing_time_jst": "00:00",
-                "next_episode": 8,
-                "total_episodes": 12,
-                "next_air_utc": "2026-03-13T15:00:00Z",
-                "mal_url": "https://myanimelist.net/anime/52991"
-            }
+        "score": null,
+        "airing_day": "monday",
+        "airing_time_jst": "01:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T16:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/54871/Shin_Nippon_History"
+      },
+      {
+        "id": 62987,
+        "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
+        "title_en": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
+        "cover": "https://myanimelist.net/images/anime/1845/153717l.jpg",
+        "genres": [
+          "Comedy"
         ],
-        "saturday": [
-            {
-                "id": 53446,
-                "title": "Jujutsu Kaisen 3rd Season",
-                "title_en": "Jujutsu Kaisen Season 3",
-                "cover": "https://cdn.myanimelist.net/images/anime/1233/140689l.jpg",
-                "genres": [
-                    "Action",
-                    "Drama",
-                    "Supernatural"
-                ],
-                "score": 8.6,
-                "airing_day": "saturday",
-                "airing_time_jst": "23:30",
-                "next_episode": 5,
-                "total_episodes": null,
-                "next_air_utc": "2026-03-14T14:30:00Z",
-                "mal_url": "https://myanimelist.net/anime/53446"
-            },
-            {
-                "id": 56885,
-                "title": "One Piece",
-                "title_en": "One Piece",
-                "cover": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
-                "genres": [
-                    "Action",
-                    "Adventure",
-                    "Fantasy"
-                ],
-                "score": 8.7,
-                "airing_day": "saturday",
-                "airing_time_jst": "09:30",
-                "next_episode": 1130,
-                "total_episodes": null,
-                "next_air_utc": "2026-03-14T00:30:00Z",
-                "mal_url": "https://myanimelist.net/anime/56885"
-            }
+        "score": 5.45,
+        "airing_day": "monday",
+        "airing_time_jst": "20:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-16T11:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/62987/Hokuto_no_Ken__Kenougun_Zako-tachi_no_Banka"
+      },
+      {
+        "id": 62987,
+        "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
+        "title_en": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
+        "cover": "https://myanimelist.net/images/anime/1845/153717l.jpg",
+        "genres": [
+          "Comedy"
         ],
-        "sunday": [
-            {
-                "id": 51009,
-                "title": "Oshi no Ko 2nd Season",
-                "title_en": "Oshi No Ko Season 2",
-                "cover": "https://cdn.myanimelist.net/images/anime/1233/141882l.jpg",
-                "genres": [
-                    "Drama",
-                    "Supernatural"
-                ],
-                "score": 8.1,
-                "airing_day": "sunday",
-                "airing_time_jst": "23:00",
-                "next_episode": 10,
-                "total_episodes": 13,
-                "next_air_utc": "2026-03-15T14:00:00Z",
-                "mal_url": "https://myanimelist.net/anime/51009"
-            }
-        ]
-    }
+        "score": 5.45,
+        "airing_day": "monday",
+        "airing_time_jst": "20:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-16T11:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/62987/Hokuto_no_Ken__Kenougun_Zako-tachi_no_Banka"
+      },
+      {
+        "id": 37096,
+        "title": "Puzzle & Dragon",
+        "title_en": "Puzzle & Dragon",
+        "cover": "https://myanimelist.net/images/anime/1460/149962l.jpg",
+        "genres": [],
+        "score": 6.23,
+        "airing_day": "monday",
+        "airing_time_jst": "18:25",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-16T09:25:00Z",
+        "mal_url": "https://myanimelist.net/anime/37096/Puzzle___Dragon"
+      },
+      {
+        "id": 63087,
+        "title": "Yami Shibai 16",
+        "title_en": "Theatre of Darkness: Yamishibai 16",
+        "cover": "https://myanimelist.net/images/anime/1666/154215l.jpg",
+        "genres": [
+          "Avant Garde",
+          "Horror",
+          "Supernatural"
+        ],
+        "score": 5.88,
+        "airing_day": "monday",
+        "airing_time_jst": "02:20",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T17:20:00Z",
+        "mal_url": "https://myanimelist.net/anime/63087/Yami_Shibai_16"
+      },
+      {
+        "id": 63087,
+        "title": "Yami Shibai 16",
+        "title_en": "Theatre of Darkness: Yamishibai 16",
+        "cover": "https://myanimelist.net/images/anime/1666/154215l.jpg",
+        "genres": [
+          "Avant Garde",
+          "Horror",
+          "Supernatural"
+        ],
+        "score": 5.88,
+        "airing_day": "monday",
+        "airing_time_jst": "02:20",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T17:20:00Z",
+        "mal_url": "https://myanimelist.net/anime/63087/Yami_Shibai_16"
+      },
+      {
+        "id": 61886,
+        "title": "Goumon Baito-kun no Nichijou",
+        "title_en": "The Daily Life of a Part-time Torturer",
+        "cover": "https://myanimelist.net/images/anime/1721/153380l.jpg",
+        "genres": [
+          "Comedy"
+        ],
+        "score": 5.76,
+        "airing_day": "monday",
+        "airing_time_jst": "00:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-15T15:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61886/Goumon_Baito-kun_no_Nichijou"
+      },
+      {
+        "id": 58524,
+        "title": "Himesama \"Goumon\" no Jikan desu 2nd Season",
+        "title_en": "'Tis Time for \"Torture,\" Princess Season 2",
+        "cover": "https://myanimelist.net/images/anime/1272/153326l.jpg",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Gourmet"
+        ],
+        "score": 7.65,
+        "airing_day": "monday",
+        "airing_time_jst": "23:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-16T14:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/58524/Himesama_Goumon_no_Jikan_desu_2nd_Season"
+      },
+      {
+        "id": 61782,
+        "title": "Kirei ni Shitemoraemasu ka.",
+        "title_en": "Wash It All Away",
+        "cover": "https://myanimelist.net/images/anime/1940/154234l.jpg",
+        "genres": [
+          "Slice of Life"
+        ],
+        "score": 6.86,
+        "airing_day": "monday",
+        "airing_time_jst": "22:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-16T13:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/61782/Kirei_ni_Shitemoraemasu_ka"
+      },
+      {
+        "id": 55772,
+        "title": "Golden Kamuy: Saishuushou",
+        "title_en": "Golden Kamuy Final Season",
+        "cover": "https://myanimelist.net/images/anime/1288/154763l.jpg",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "score": 8.37,
+        "airing_day": "monday",
+        "airing_time_jst": "23:00",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-16T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/55772/Golden_Kamuy__Saishuushou"
+      },
+      {
+        "id": 61942,
+        "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+        "title_en": "My Hero Academia: Vigilantes Season 2",
+        "cover": "https://myanimelist.net/images/anime/1592/154049l.jpg",
+        "genres": [
+          "Action"
+        ],
+        "score": 7.36,
+        "airing_day": "monday",
+        "airing_time_jst": "22:00",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-16T13:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/61942/Vigilante__Boku_no_Hero_Academia_Illegals_2nd_Season"
+      }
+    ],
+    "tuesday": [
+      {
+        "id": 41458,
+        "title": "Origami Ninja Koyankinte",
+        "title_en": "Origami Ninja Koyankinte",
+        "cover": "https://myanimelist.net/images/anime/1860/106477l.jpg",
+        "genres": [
+          "Comedy"
+        ],
+        "score": null,
+        "airing_day": "tuesday",
+        "airing_time_jst": "07:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-16T22:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/41458/Origami_Ninja_Koyankinte"
+      },
+      {
+        "id": 42295,
+        "title": "Fushigi Dagashiya: Zenitendou",
+        "title_en": "Fushigi Dagashiya: Zenitendou",
+        "cover": "https://myanimelist.net/images/anime/1602/150098l.jpg",
+        "genres": [
+          "Mystery"
+        ],
+        "score": 6.13,
+        "airing_day": "tuesday",
+        "airing_time_jst": "18:45",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-17T09:45:00Z",
+        "mal_url": "https://myanimelist.net/anime/42295/Fushigi_Dagashiya__Zenitendou"
+      },
+      {
+        "id": 61969,
+        "title": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
+        "title_en": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
+        "cover": "https://myanimelist.net/images/anime/1115/152470l.jpg",
+        "genres": [
+          "Boys Love",
+          "Fantasy"
+        ],
+        "score": 5.52,
+        "airing_day": "tuesday",
+        "airing_time_jst": "21:55",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-17T12:55:00Z",
+        "mal_url": "https://myanimelist.net/anime/61969/Saioshi_no_Gikei_wo_Mederu_Tame_Nagaiki_shimasu"
+      },
+      {
+        "id": 61830,
+        "title": "Yoroi Shin Den Samurai Troopers",
+        "title_en": "Yoroi-Shinden Samurai Troopers",
+        "cover": "https://myanimelist.net/images/anime/1289/153952l.jpg",
+        "genres": [
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "score": 6.31,
+        "airing_day": "tuesday",
+        "airing_time_jst": "23:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-17T14:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61830/Yoroi_Shin_Den_Samurai_Troopers"
+      },
+      {
+        "id": 61359,
+        "title": "Osananajimi to wa Love Comedy ni Naranai",
+        "title_en": "You Can't Be In a Rom-Com with Your Childhood Friends!",
+        "cover": "https://myanimelist.net/images/anime/1729/153502l.jpg",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "score": 6.44,
+        "airing_day": "tuesday",
+        "airing_time_jst": "00:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-16T15:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/61359/Osananajimi_to_wa_Love_Comedy_ni_Naranai"
+      },
+      {
+        "id": 60226,
+        "title": "Isekai no Sata wa Shachiku Shidai",
+        "title_en": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+        "cover": "https://myanimelist.net/images/anime/1510/153806l.jpg",
+        "genres": [
+          "Boys Love",
+          "Fantasy"
+        ],
+        "score": 6.92,
+        "airing_day": "tuesday",
+        "airing_time_jst": "23:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-17T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/60226/Isekai_no_Sata_wa_Shachiku_Shidai"
+      },
+      {
+        "id": 61211,
+        "title": "Mayonaka Heart Tune",
+        "title_en": "Tune In to the Midnight Heart",
+        "cover": "https://myanimelist.net/images/anime/1769/152823l.jpg",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "score": 7.26,
+        "airing_day": "tuesday",
+        "airing_time_jst": "23:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-17T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/61211/Mayonaka_Heart_Tune"
+      },
+      {
+        "id": 61983,
+        "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+        "title_en": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
+        "cover": "https://myanimelist.net/images/anime/1573/152828l.jpg",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ],
+        "score": 6.31,
+        "airing_day": "tuesday",
+        "airing_time_jst": "23:00",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-17T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/61983/Yuusha_Party_ni_Kawaii_Ko_ga_Ita_node_Kokuhaku_shitemita"
+      },
+      {
+        "id": 59517,
+        "title": "Chitose-kun wa Ramune Bin no Naka",
+        "title_en": "Chitose Is in the Ramune Bottle",
+        "cover": "https://myanimelist.net/images/anime/1015/151233l.jpg",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "score": 7.25,
+        "airing_day": "tuesday",
+        "airing_time_jst": "23:00",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-17T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/59517/Chitose-kun_wa_Ramune_Bin_no_Naka"
+      }
+    ],
+    "wednesday": [
+      {
+        "id": 63216,
+        "title": "Gelpiyo",
+        "title_en": "Gelpiyo",
+        "cover": "https://myanimelist.net/images/anime/1529/154774l.jpg",
+        "genres": [
+          "Comedy"
+        ],
+        "score": null,
+        "airing_day": "wednesday",
+        "airing_time_jst": "21:54",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-11T12:54:00Z",
+        "mal_url": "https://myanimelist.net/anime/63216/Gelpiyo"
+      },
+      {
+        "id": 61765,
+        "title": "Chibi Godzilla no Gyakushuu 3rd Season",
+        "title_en": "Chibi Godzilla no Gyakushuu 3rd Season",
+        "cover": "https://myanimelist.net/images/anime/1859/150334l.jpg",
+        "genres": [
+          "Fantasy"
+        ],
+        "score": null,
+        "airing_day": "wednesday",
+        "airing_time_jst": "07:05",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-17T22:05:00Z",
+        "mal_url": "https://myanimelist.net/anime/61765/Chibi_Godzilla_no_Gyakushuu_3rd_Season"
+      },
+      {
+        "id": 59732,
+        "title": "Pochars",
+        "title_en": "Pochars",
+        "cover": "https://myanimelist.net/images/anime/1155/145243l.jpg",
+        "genres": [
+          "Comedy"
+        ],
+        "score": null,
+        "airing_day": "wednesday",
+        "airing_time_jst": "01:25",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-17T16:25:00Z",
+        "mal_url": "https://myanimelist.net/anime/59732/Pochars"
+      },
+      {
+        "id": 61608,
+        "title": "Jigoku Sensei Nube (2025) Part 2",
+        "title_en": "Hell Teacher: Jigoku Sensei Nube Part 2",
+        "cover": "https://myanimelist.net/images/anime/1361/153968l.jpg",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Supernatural"
+        ],
+        "score": 7.07,
+        "airing_day": "wednesday",
+        "airing_time_jst": "23:45",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-11T14:45:00Z",
+        "mal_url": "https://myanimelist.net/anime/61608/Jigoku_Sensei_Nube_2025_Part_2"
+      },
+      {
+        "id": 60255,
+        "title": "Arne no Jikenbo",
+        "title_en": "The Case Book of Arne",
+        "cover": "https://myanimelist.net/images/anime/1440/154894l.jpg",
+        "genres": [
+          "Fantasy",
+          "Mystery"
+        ],
+        "score": 6.21,
+        "airing_day": "wednesday",
+        "airing_time_jst": "01:29",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-17T16:29:00Z",
+        "mal_url": "https://myanimelist.net/anime/60255/Arne_no_Jikenbo"
+      },
+      {
+        "id": 61637,
+        "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+        "title_en": "An Adventurer's Daily Grind at Age 29",
+        "cover": "https://myanimelist.net/images/anime/1765/154087l.jpg",
+        "genres": [
+          "Fantasy"
+        ],
+        "score": 6.22,
+        "airing_day": "wednesday",
+        "airing_time_jst": "21:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-11T12:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61637/29-sai_Dokushin_Chuuken_Boukensha_no_Nichijou"
+      },
+      {
+        "id": 61884,
+        "title": "Maou no Musume wa Yasashisugiru!!",
+        "title_en": "The Demon King's Daughter Is Too Kind!!",
+        "cover": "https://myanimelist.net/images/anime/1160/154083l.jpg",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ],
+        "score": 7.2,
+        "airing_day": "wednesday",
+        "airing_time_jst": "22:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-11T13:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/61884/Maou_no_Musume_wa_Yasashisugiru"
+      },
+      {
+        "id": 58886,
+        "title": "Darwin Jihen",
+        "title_en": "The Darwin Incident",
+        "cover": "https://myanimelist.net/images/anime/1341/152829l.jpg",
+        "genres": [
+          "Sci-Fi"
+        ],
+        "score": 6.58,
+        "airing_day": "wednesday",
+        "airing_time_jst": "00:00",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-17T15:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/58886/Darwin_Jihen"
+      },
+      {
+        "id": 59711,
+        "title": "Shibou Yuugi de Meshi wo Kuu.",
+        "title_en": "Shiboyugi: Playing Death Games to Put Food on the Table",
+        "cover": "https://myanimelist.net/images/anime/1834/151169l.jpg",
+        "genres": [
+          "Action",
+          "Suspense"
+        ],
+        "score": 7.56,
+        "airing_day": "wednesday",
+        "airing_time_jst": "23:30",
+        "next_episode": 12,
+        "total_episodes": 11,
+        "next_air_utc": "2026-03-11T14:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/59711/Shibou_Yuugi_de_Meshi_wo_Kuu"
+      },
+      {
+        "id": 60058,
+        "title": "[Oshi no Ko] 3rd Season",
+        "title_en": "[Oshi No Ko] Season 3",
+        "cover": "https://myanimelist.net/images/anime/1979/153329l.jpg",
+        "genres": [
+          "Drama"
+        ],
+        "score": 8.59,
+        "airing_day": "wednesday",
+        "airing_time_jst": "23:00",
+        "next_episode": 12,
+        "total_episodes": 11,
+        "next_air_utc": "2026-03-11T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season"
+      }
+    ],
+    "thursday": [
+      {
+        "id": 63142,
+        "title": "Metal Cardbot W",
+        "title_en": "Metal Cardbot W",
+        "cover": "https://myanimelist.net/images/anime/1332/154527l.jpg",
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ],
+        "score": null,
+        "airing_day": "thursday",
+        "airing_time_jst": "07:45",
+        "next_episode": 27,
+        "total_episodes": 26,
+        "next_air_utc": "2026-03-11T22:45:00Z",
+        "mal_url": "https://myanimelist.net/anime/63142/Metal_Cardbot_W"
+      },
+      {
+        "id": 63142,
+        "title": "Metal Cardbot W",
+        "title_en": "Metal Cardbot W",
+        "cover": "https://myanimelist.net/images/anime/1332/154527l.jpg",
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ],
+        "score": null,
+        "airing_day": "thursday",
+        "airing_time_jst": "07:45",
+        "next_episode": 27,
+        "total_episodes": 26,
+        "next_air_utc": "2026-03-11T22:45:00Z",
+        "mal_url": "https://myanimelist.net/anime/63142/Metal_Cardbot_W"
+      },
+      {
+        "id": 62521,
+        "title": "#Kanagawa ni Sunderu Elf",
+        "title_en": "#Kanagawa ni Sunderu Elf",
+        "cover": "https://myanimelist.net/images/anime/1194/152817l.jpg",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ],
+        "score": null,
+        "airing_day": "thursday",
+        "airing_time_jst": "12:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-12T03:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/62521/Kanagawa_ni_Sunderu_Elf"
+      },
+      {
+        "id": 60071,
+        "title": "Odayaka Kizoku no Kyuuka no Susume.",
+        "title_en": "A Gentle Noble's Vacation Recommendation",
+        "cover": "https://myanimelist.net/images/anime/1968/152396l.jpg",
+        "genres": [
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "score": 6.57,
+        "airing_day": "thursday",
+        "airing_time_jst": "00:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-11T15:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/60071/Odayaka_Kizoku_no_Kyuuka_no_Susume"
+      },
+      {
+        "id": 60395,
+        "title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+        "title_en": "The Invisible Man and His Soon-to-Be Wife",
+        "cover": "https://myanimelist.net/images/anime/1033/152494l.jpg",
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "score": 7.4,
+        "airing_day": "thursday",
+        "airing_time_jst": "23:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-12T14:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/60395/Toumei_Otoko_to_Ningen_Onna__Sonouchi_Fuufu_ni_Naru_Futari"
+      },
+      {
+        "id": 60151,
+        "title": "Eris no Seihai",
+        "title_en": "The Holy Grail of Eris",
+        "cover": "https://myanimelist.net/images/anime/1404/154931l.jpg",
+        "genres": [
+          "Mystery",
+          "Supernatural"
+        ],
+        "score": 7.02,
+        "airing_day": "thursday",
+        "airing_time_jst": "23:56",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-12T14:56:00Z",
+        "mal_url": "https://myanimelist.net/anime/60151/Eris_no_Seihai"
+      },
+      {
+        "id": 60692,
+        "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+        "title_en": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+        "cover": "https://myanimelist.net/images/anime/1629/153722l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "score": 6.22,
+        "airing_day": "thursday",
+        "airing_time_jst": "00:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-11T15:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/60692/Kizoku_Tensei__Megumareta_Umare_kara_Saikyou_no_Chikara_wo_Eru"
+      },
+      {
+        "id": 58505,
+        "title": "Mato Seihei no Slave 2",
+        "title_en": "Chained Soldier Season 2",
+        "cover": "https://myanimelist.net/images/anime/1668/148737l.jpg",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Ecchi"
+        ],
+        "score": 7.46,
+        "airing_day": "thursday",
+        "airing_time_jst": "23:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-12T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/58505/Mato_Seihei_no_Slave_2"
+      },
+      {
+        "id": 56009,
+        "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+        "title_en": "Sentenced to Be a Hero",
+        "cover": "https://myanimelist.net/images/anime/1062/151911l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "score": 8.17,
+        "airing_day": "thursday",
+        "airing_time_jst": "22:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-12T13:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/56009/Yuusha-kei_ni_Shosu__Choubatsu_Yuusha_9004-tai_Keimu_Kiroku"
+      }
+    ],
+    "friday": [
+      {
+        "id": 60947,
+        "title": "Nmeneko",
+        "title_en": "Nmeneko",
+        "cover": "https://myanimelist.net/images/anime/1989/149978l.jpg",
+        "genres": [
+          "Comedy"
+        ],
+        "score": 6.13,
+        "airing_day": "friday",
+        "airing_time_jst": "01:58",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-12T16:58:00Z",
+        "mal_url": "https://myanimelist.net/anime/60947/Nmeneko"
+      },
+      {
+        "id": 62804,
+        "title": "High School! Kimengumi (2026)",
+        "title_en": "High School! Kimengumi (2026)",
+        "cover": "https://myanimelist.net/images/anime/1501/154507l.jpg",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "score": 5.38,
+        "airing_day": "friday",
+        "airing_time_jst": "23:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-13T14:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/62804/High_School_Kimengumi_2026"
+      },
+      {
+        "id": 1960,
+        "title": "Sore Ike! Anpanman",
+        "title_en": "Sore Ike! Anpanman",
+        "cover": "https://myanimelist.net/images/anime/1902/111797l.jpg",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ],
+        "score": 6.65,
+        "airing_day": "friday",
+        "airing_time_jst": "16:20",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T07:20:00Z",
+        "mal_url": "https://myanimelist.net/anime/1960/Sore_Ike_Anpanman"
+      },
+      {
+        "id": 56566,
+        "title": "Beyblade X",
+        "title_en": "Beyblade X",
+        "cover": "https://myanimelist.net/images/anime/1394/145458l.jpg",
+        "genres": [
+          "Adventure",
+          "Sports"
+        ],
+        "score": 6.89,
+        "airing_day": "friday",
+        "airing_time_jst": "18:25",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T09:25:00Z",
+        "mal_url": "https://myanimelist.net/anime/56566/Beyblade_X"
+      },
+      {
+        "id": 62378,
+        "title": "Ganglion",
+        "title_en": "Ganglion",
+        "cover": "https://myanimelist.net/images/anime/1333/151768l.jpg",
+        "genres": [
+          "Action"
+        ],
+        "score": 6.08,
+        "airing_day": "friday",
+        "airing_time_jst": "20:30",
+        "next_episode": 25,
+        "total_episodes": 24,
+        "next_air_utc": "2026-03-13T11:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/62378/Ganglion"
+      },
+      {
+        "id": 61325,
+        "title": "Douse, Koishite Shimaunda. 2nd Season",
+        "title_en": "Anyway, I'm Falling in Love with You. Season 2",
+        "cover": "https://myanimelist.net/images/anime/1054/153719l.jpg",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "score": 6.47,
+        "airing_day": "friday",
+        "airing_time_jst": "01:28",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-12T16:28:00Z",
+        "mal_url": "https://myanimelist.net/anime/61325/Douse_Koishite_Shimaunda_2nd_Season"
+      },
+      {
+        "id": 50250,
+        "title": "Chiikawa",
+        "title_en": "Chiikawa",
+        "cover": "https://myanimelist.net/images/anime/1783/121944l.jpg",
+        "genres": [
+          "Slice of Life"
+        ],
+        "score": 8.55,
+        "airing_day": "friday",
+        "airing_time_jst": "07:40",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-12T22:40:00Z",
+        "mal_url": "https://myanimelist.net/anime/50250/Chiikawa"
+      },
+      {
+        "id": 8687,
+        "title": "Doraemon (2005)",
+        "title_en": "Doraemon (2005)",
+        "cover": "https://myanimelist.net/images/anime/6/23935l.jpg",
+        "genres": [
+          "Comedy",
+          "Sci-Fi"
+        ],
+        "score": 7.75,
+        "airing_day": "friday",
+        "airing_time_jst": "19:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T10:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/8687/Doraemon_2005"
+      },
+      {
+        "id": 60509,
+        "title": "Champignon no Majo",
+        "title_en": "Champignon Witch",
+        "cover": "https://myanimelist.net/images/anime/1499/152613l.jpg",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "score": 7.05,
+        "airing_day": "friday",
+        "airing_time_jst": "01:58",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-12T16:58:00Z",
+        "mal_url": "https://myanimelist.net/anime/60509/Champignon_no_Majo"
+      },
+      {
+        "id": 61587,
+        "title": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+        "title_en": "Roll Over and Die",
+        "cover": "https://myanimelist.net/images/anime/1360/153435l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Girls Love"
+        ],
+        "score": 6.47,
+        "airing_day": "friday",
+        "airing_time_jst": "00:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-12T15:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61587/Omae_Gotoki_ga_Maou_ni_Kateru_to_Omouna_to_Yuusha_Party_wo_Tsuihou_sareta_node_Outo_de_Kimama_ni_Kurashitai"
+      },
+      {
+        "id": 53876,
+        "title": "Pokemon (2023)",
+        "title_en": "Pokémon Horizons: The Series",
+        "cover": "https://myanimelist.net/images/anime/1703/137216l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "score": 7.41,
+        "airing_day": "friday",
+        "airing_time_jst": "18:55",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T09:55:00Z",
+        "mal_url": "https://myanimelist.net/anime/53876/Pokemon_2023"
+      },
+      {
+        "id": 966,
+        "title": "Crayon Shin-chan",
+        "title_en": "Shin Chan",
+        "cover": "https://myanimelist.net/images/anime/10/59897l.jpg",
+        "genres": [
+          "Comedy",
+          "Ecchi"
+        ],
+        "score": 7.81,
+        "airing_day": "friday",
+        "airing_time_jst": "19:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T10:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/966/Crayon_Shin-chan"
+      },
+      {
+        "id": 57658,
+        "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+        "title_en": "Jujutsu Kaisen: The Culling Game Part 1",
+        "cover": "https://myanimelist.net/images/anime/1659/154920l.jpg",
+        "genres": [
+          "Action",
+          "Supernatural"
+        ],
+        "score": 8.58,
+        "airing_day": "friday",
+        "airing_time_jst": "00:26",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-12T15:26:00Z",
+        "mal_url": "https://myanimelist.net/anime/57658/Jujutsu_Kaisen__Shimetsu_Kaiyuu_-_Zenpen"
+      },
+      {
+        "id": 59978,
+        "title": "Sousou no Frieren 2nd Season",
+        "title_en": "Frieren: Beyond Journey's End Season 2",
+        "cover": "https://myanimelist.net/images/anime/1921/154528l.jpg",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "score": 9.15,
+        "airing_day": "friday",
+        "airing_time_jst": "23:00",
+        "next_episode": 11,
+        "total_episodes": 10,
+        "next_air_utc": "2026-03-13T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season"
+      }
+    ],
+    "saturday": [
+      {
+        "id": 63106,
+        "title": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu",
+        "title_en": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu",
+        "cover": "https://myanimelist.net/images/anime/1001/154350l.jpg",
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "score": null,
+        "airing_day": "saturday",
+        "airing_time_jst": "05:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T20:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/63106/Hoppe-chan__Sun_Oukoku_to_Kuro_Hoppe-dan_no_Himitsu"
+      },
+      {
+        "id": 62231,
+        "title": "Jochum Season 2",
+        "title_en": "Jochum Season 2",
+        "cover": "https://myanimelist.net/images/anime/1017/151409l.jpg",
+        "genres": [
+          "Slice of Life"
+        ],
+        "score": null,
+        "airing_day": "saturday",
+        "airing_time_jst": "06:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T21:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/62231/Jochum_Season_2"
+      },
+      {
+        "id": 60983,
+        "title": "Kagaku x Bouken Survival! 2nd Season",
+        "title_en": "Kagaku x Bouken Survival! 2nd Season",
+        "cover": "https://myanimelist.net/images/anime/1191/151082l.jpg",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "score": null,
+        "airing_day": "saturday",
+        "airing_time_jst": "18:25",
+        "next_episode": 20,
+        "total_episodes": 19,
+        "next_air_utc": "2026-03-14T09:25:00Z",
+        "mal_url": "https://myanimelist.net/anime/60983/Kagaku_x_Bouken_Survival_2nd_Season"
+      },
+      {
+        "id": 18941,
+        "title": "Shimajirou no Wow!",
+        "title_en": "Shimajirou no Wow!",
+        "cover": "https://myanimelist.net/images/anime/9/50737l.jpg",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "score": null,
+        "airing_day": "saturday",
+        "airing_time_jst": "08:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T23:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/18941/Shimajirou_no_Wow"
+      },
+      {
+        "id": 60070,
+        "title": "Kaijuu Sekai Seifuku (TV)",
+        "title_en": "Kaijuu Sekai Seifuku (TV)",
+        "cover": "https://myanimelist.net/images/anime/1582/150123l.jpg",
+        "genres": [
+          "Slice of Life"
+        ],
+        "score": 6.15,
+        "airing_day": "saturday",
+        "airing_time_jst": "07:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T22:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/60070/Kaijuu_Sekai_Seifuku_TV"
+      },
+      {
+        "id": 62649,
+        "title": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
+        "title_en": "Cardfight!! Vanguard: Divinez Parallactic Clash",
+        "cover": "https://myanimelist.net/images/anime/1801/154108l.jpg",
+        "genres": [
+          "Action"
+        ],
+        "score": 6.4,
+        "airing_day": "saturday",
+        "airing_time_jst": "08:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T23:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/62649/Cardfight_Vanguard__Divinez_Genma_Seisen-hen"
+      },
+      {
+        "id": 62864,
+        "title": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
+        "title_en": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
+        "cover": "https://myanimelist.net/images/anime/1156/153079l.jpg",
+        "genres": [
+          "Comedy"
+        ],
+        "score": 5.23,
+        "airing_day": "saturday",
+        "airing_time_jst": "21:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-14T12:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/62864/Omae_wa_Mada_Gunma_wo_Shiranai__Reiwa-ban"
+      },
+      {
+        "id": 50418,
+        "title": "Ninjala (TV)",
+        "title_en": "Ninjala (TV)",
+        "cover": "https://myanimelist.net/images/anime/1552/119871l.jpg",
+        "genres": [
+          "Action"
+        ],
+        "score": 5.59,
+        "airing_day": "saturday",
+        "airing_time_jst": "07:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T22:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/50418/Ninjala_TV"
+      },
+      {
+        "id": 32353,
+        "title": "Bonobono (TV 2016)",
+        "title_en": "Bono Bono",
+        "cover": "https://myanimelist.net/images/anime/1686/149949l.jpg",
+        "genres": [
+          "Comedy"
+        ],
+        "score": 6.43,
+        "airing_day": "saturday",
+        "airing_time_jst": "04:52",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-13T19:52:00Z",
+        "mal_url": "https://myanimelist.net/anime/32353/Bonobono_TV_2016"
+      },
+      {
+        "id": 61333,
+        "title": "Ao no Miburo: Serizawa Ansatsu-hen",
+        "title_en": "Blue Miburo Season 2",
+        "cover": "https://myanimelist.net/images/anime/1393/151603l.jpg",
+        "genres": [
+          "Action"
+        ],
+        "score": 7.03,
+        "airing_day": "saturday",
+        "airing_time_jst": "17:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-14T08:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61333/Ao_no_Miburo__Serizawa_Ansatsu-hen"
+      },
+      {
+        "id": 59853,
+        "title": "Dark Moon: Tsuki no Saidan",
+        "title_en": "Dark Moon: The Blood Altar",
+        "cover": "https://myanimelist.net/images/anime/1559/154695l.jpg",
+        "genres": [
+          "Fantasy"
+        ],
+        "score": 6.51,
+        "airing_day": "saturday",
+        "airing_time_jst": "00:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-13T15:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/59853/Dark_Moon__Tsuki_no_Saidan"
+      },
+      {
+        "id": 61207,
+        "title": "Tensei shitara Dragon no Tamago datta",
+        "title_en": "Reincarnated as a Dragon Hatchling",
+        "cover": "https://myanimelist.net/images/anime/1031/154235l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "score": 6.48,
+        "airing_day": "saturday",
+        "airing_time_jst": "21:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-14T12:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61207/Tensei_shitara_Dragon_no_Tamago_datta"
+      },
+      {
+        "id": 61196,
+        "title": "Dead Account",
+        "title_en": "Dead Account",
+        "cover": "https://myanimelist.net/images/anime/1622/154192l.jpg",
+        "genres": [
+          "Action",
+          "Supernatural"
+        ],
+        "score": 6.37,
+        "airing_day": "saturday",
+        "airing_time_jst": "23:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-14T14:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61196/Dead_Account"
+      },
+      {
+        "id": 60460,
+        "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+        "title_en": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+        "cover": "https://myanimelist.net/images/anime/1151/152479l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "score": 6.86,
+        "airing_day": "saturday",
+        "airing_time_jst": "01:05",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-13T16:05:00Z",
+        "mal_url": "https://myanimelist.net/anime/60460/Hell_Mode__Yarikomizuki_no_Gamer_wa_Hai_Settei_no_Isekai_de_Musou_suru"
+      },
+      {
+        "id": 61549,
+        "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+        "title_en": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
+        "cover": "https://myanimelist.net/images/anime/1264/153908l.jpg",
+        "genres": [
+          "Fantasy"
+        ],
+        "score": 6.83,
+        "airing_day": "saturday",
+        "airing_time_jst": "22:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-14T13:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/61549/Okiraku_Ryoushu_no_Tanoshii_Ryouchi_Bouei__Seisankei_Majutsu_de_Na_mo_Naki_Mura_wo_Saikyou_no_Jousai_Toshi_ni"
+      },
+      {
+        "id": 54863,
+        "title": "Trigun Stargaze",
+        "title_en": "Trigun Stargaze",
+        "cover": "https://myanimelist.net/images/anime/1219/154541l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "score": 7.24,
+        "airing_day": "saturday",
+        "airing_time_jst": "23:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-14T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/54863/Trigun_Stargaze"
+      },
+      {
+        "id": 55830,
+        "title": "Fate/strange Fake",
+        "title_en": "Fate/strange Fake",
+        "cover": "https://myanimelist.net/images/anime/1752/150192l.jpg",
+        "genres": [
+          "Action",
+          "Fantasy"
+        ],
+        "score": 8.51,
+        "airing_day": "saturday",
+        "airing_time_jst": "23:30",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-14T14:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/55830/Fate_strange_Fake"
+      },
+      {
+        "id": 54703,
+        "title": "Fumetsu no Anata e Season 3",
+        "title_en": "To Your Eternity Season 3",
+        "cover": "https://myanimelist.net/images/anime/1140/152364l.jpg",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Supernatural"
+        ],
+        "score": 7.59,
+        "airing_day": "saturday",
+        "airing_time_jst": "23:45",
+        "next_episode": 23,
+        "total_episodes": 22,
+        "next_air_utc": "2026-03-14T14:45:00Z",
+        "mal_url": "https://myanimelist.net/anime/54703/Fumetsu_no_Anata_e_Season_3"
+      },
+      {
+        "id": 59229,
+        "title": "Enen no Shouboutai: San no Shou Part 2",
+        "title_en": "Fire Force Season 3 Part 2",
+        "cover": "https://myanimelist.net/images/anime/1508/152472l.jpg",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "score": 8.05,
+        "airing_day": "saturday",
+        "airing_time_jst": "01:53",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-13T16:53:00Z",
+        "mal_url": "https://myanimelist.net/anime/59229/Enen_no_Shouboutai__San_no_Shou_Part_2"
+      },
+      {
+        "id": 235,
+        "title": "Meitantei Conan",
+        "title_en": "Case Closed",
+        "cover": "https://myanimelist.net/images/anime/7/75199l.jpg",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Mystery"
+        ],
+        "score": 8.18,
+        "airing_day": "saturday",
+        "airing_time_jst": "18:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-14T09:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/235/Meitantei_Conan"
+      }
+    ],
+    "sunday": [
+      {
+        "id": 62083,
+        "title": "Tomica to Tom (TV)",
+        "title_en": "Tomica & Tom (TV)",
+        "cover": "https://myanimelist.net/images/anime/1521/151096l.jpg",
+        "genres": [
+          "Slice of Life"
+        ],
+        "score": null,
+        "airing_day": "sunday",
+        "airing_time_jst": "08:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-14T23:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/62083/Tomica_to_Tom_TV"
+      },
+      {
+        "id": 60596,
+        "title": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament",
+        "title_en": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament",
+        "cover": "https://myanimelist.net/images/anime/1531/150143l.jpg",
+        "genres": [
+          "Action"
+        ],
+        "score": null,
+        "airing_day": "sunday",
+        "airing_time_jst": "07:15",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-14T22:15:00Z",
+        "mal_url": "https://myanimelist.net/anime/60596/Sai-Kyo-Oh_Zukan__The_Ultimate_Tournament"
+      },
+      {
+        "id": 38776,
+        "title": "Manul no Yuube",
+        "title_en": "Manul no Yuube",
+        "cover": "https://myanimelist.net/images/anime/1980/96936l.jpg",
+        "genres": [
+          "Slice of Life"
+        ],
+        "score": null,
+        "airing_day": "sunday",
+        "airing_time_jst": "Unknown",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-11T12:05:31.564629Z",
+        "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
+      },
+      {
+        "id": 61092,
+        "title": "Himitsu no AiPri: Ring-hen",
+        "title_en": "Himitsu no AiPri: Ring-hen",
+        "cover": "https://myanimelist.net/images/anime/1799/148164l.jpg",
+        "genres": [],
+        "score": 6.83,
+        "airing_day": "sunday",
+        "airing_time_jst": "09:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T00:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61092/Himitsu_no_AiPri__Ring-hen"
+      },
+      {
+        "id": 63042,
+        "title": "Meitantei Precure!",
+        "title_en": "Star Detective Precure!",
+        "cover": "https://myanimelist.net/images/anime/1706/154944l.jpg",
+        "genres": [
+          "Action",
+          "Mystery"
+        ],
+        "score": 7.53,
+        "airing_day": "sunday",
+        "airing_time_jst": "08:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-14T23:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/63042/Meitantei_Precure"
+      },
+      {
+        "id": 60534,
+        "title": "Koupen-chan",
+        "title_en": "Koupen-chan",
+        "cover": "https://myanimelist.net/images/anime/1533/146981l.jpg",
+        "genres": [
+          "Slice of Life"
+        ],
+        "score": 7.52,
+        "airing_day": "sunday",
+        "airing_time_jst": "08:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-14T23:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/60534/Koupen-chan"
+      },
+      {
+        "id": 61084,
+        "title": "Hikuidori: Ushuu Boro Tobi-gumi",
+        "title_en": "Oedo Fire Slayer: The Legend of Phoenix",
+        "cover": "https://myanimelist.net/images/anime/1129/151615l.jpg",
+        "genres": [],
+        "score": 4.75,
+        "airing_day": "sunday",
+        "airing_time_jst": "23:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T14:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61084/Hikuidori__Ushuu_Boro_Tobi-gumi"
+      },
+      {
+        "id": 59078,
+        "title": "Princession Orchestra",
+        "title_en": "Princession Orchestra",
+        "cover": "https://myanimelist.net/images/anime/1405/152146l.jpg",
+        "genres": [
+          "Action",
+          "Fantasy"
+        ],
+        "score": 6.85,
+        "airing_day": "sunday",
+        "airing_time_jst": "09:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T00:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/59078/Princession_Orchestra"
+      },
+      {
+        "id": 6149,
+        "title": "Chibi Maruko-chan (1995)",
+        "title_en": "Little Miss Maruko",
+        "cover": "https://myanimelist.net/images/anime/1678/153148l.jpg",
+        "genres": [
+          "Comedy"
+        ],
+        "score": 7.42,
+        "airing_day": "sunday",
+        "airing_time_jst": "18:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T09:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995"
+      },
+      {
+        "id": 62126,
+        "title": "SI-VIS: The Sound of Heroes",
+        "title_en": "SI-VIS: The Sound of Heroes",
+        "cover": "https://myanimelist.net/images/anime/1421/154342l.jpg",
+        "genres": [
+          "Action"
+        ],
+        "score": 6.0,
+        "airing_day": "sunday",
+        "airing_time_jst": "09:30",
+        "next_episode": 25,
+        "total_episodes": 24,
+        "next_air_utc": "2026-03-15T00:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/62126/SI-VIS__The_Sound_of_Heroes"
+      },
+      {
+        "id": 2406,
+        "title": "Sazae-san",
+        "title_en": "Mrs. Sazae",
+        "cover": "https://myanimelist.net/images/anime/1008/98996l.jpg",
+        "genres": [
+          "Comedy"
+        ],
+        "score": 6.16,
+        "airing_day": "sunday",
+        "airing_time_jst": "18:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T09:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/2406/Sazae-san"
+      },
+      {
+        "id": 62432,
+        "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+        "title_en": "A Misanthrope Teaches a Class for Demi-Humans",
+        "cover": "https://myanimelist.net/images/anime/1387/154934l.jpg",
+        "genres": [
+          "Drama",
+          "Supernatural"
+        ],
+        "score": 6.23,
+        "airing_day": "sunday",
+        "airing_time_jst": "00:00",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-14T15:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/62432/Jingai_Kyoushitsu_no_Ningengirai_Kyoushi"
+      },
+      {
+        "id": 61217,
+        "title": "Yuusha no Kuzu",
+        "title_en": "Scum of the Brave",
+        "cover": "https://myanimelist.net/images/anime/1821/154043l.jpg",
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ],
+        "score": 6.51,
+        "airing_day": "sunday",
+        "airing_time_jst": "00:55",
+        "next_episode": 25,
+        "total_episodes": 24,
+        "next_air_utc": "2026-03-14T15:55:00Z",
+        "mal_url": "https://myanimelist.net/anime/61217/Yuusha_no_Kuzu"
+      },
+      {
+        "id": 61269,
+        "title": "Digimon Beatbreak",
+        "title_en": "Digimon Beatbreak",
+        "cover": "https://myanimelist.net/images/anime/1776/151242l.jpg",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "score": 7.07,
+        "airing_day": "sunday",
+        "airing_time_jst": "09:00",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T00:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/61269/Digimon_Beatbreak"
+      },
+      {
+        "id": 60602,
+        "title": "MF Ghost 3rd Season",
+        "title_en": "MF Ghost Season 3",
+        "cover": "https://myanimelist.net/images/anime/1419/154458l.jpg",
+        "genres": [
+          "Drama"
+        ],
+        "score": 7.89,
+        "airing_day": "sunday",
+        "airing_time_jst": "23:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T14:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/60602/MF_Ghost_3rd_Season"
+      },
+      {
+        "id": 58861,
+        "title": "Hanazakari no Kimitachi e",
+        "title_en": "Hana-Kimi",
+        "cover": "https://myanimelist.net/images/anime/1506/155355l.jpg",
+        "genres": [
+          "Romance"
+        ],
+        "score": 6.99,
+        "airing_day": "sunday",
+        "airing_time_jst": "21:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-15T12:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/58861/Hanazakari_no_Kimitachi_e"
+      },
+      {
+        "id": 61335,
+        "title": "Medalist 2nd Season",
+        "title_en": "Medalist Season 2",
+        "cover": "https://myanimelist.net/images/anime/1828/155038l.jpg",
+        "genres": [
+          "Drama",
+          "Sports"
+        ],
+        "score": 8.45,
+        "airing_day": "sunday",
+        "airing_time_jst": "01:30",
+        "next_episode": 10,
+        "total_episodes": 9,
+        "next_air_utc": "2026-03-14T16:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61335/Medalist_2nd_Season"
+      },
+      {
+        "id": 62000,
+        "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
+        "title_en": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+        "cover": "https://myanimelist.net/images/anime/1383/151284l.jpg",
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "score": 6.12,
+        "airing_day": "sunday",
+        "airing_time_jst": "23:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-15T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/62000/Akuyaku_Reijou_wa_Ringoku_no_Outaishi_ni_Dekiai_sareru"
+      },
+      {
+        "id": 60223,
+        "title": "Kaya-chan wa Kowakunai",
+        "title_en": "Kaya-chan Isn't Scary",
+        "cover": "https://myanimelist.net/images/anime/1194/153705l.jpg",
+        "genres": [
+          "Horror",
+          "Supernatural"
+        ],
+        "score": 7.25,
+        "airing_day": "sunday",
+        "airing_time_jst": "17:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-15T08:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/60223/Kaya-chan_wa_Kowakunai"
+      },
+      {
+        "id": 60427,
+        "title": "Gnosia",
+        "title_en": "Gnosia",
+        "cover": "https://myanimelist.net/images/anime/1257/152352l.jpg",
+        "genres": [
+          "Sci-Fi",
+          "Suspense"
+        ],
+        "score": 7.56,
+        "airing_day": "sunday",
+        "airing_time_jst": "00:00",
+        "next_episode": 22,
+        "total_episodes": 21,
+        "next_air_utc": "2026-03-14T15:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/60427/Gnosia"
+      },
+      {
+        "id": 60810,
+        "title": "Majutsushi Kunon wa Mieteiru",
+        "title_en": "Kunon the Sorcerer Can See",
+        "cover": "https://myanimelist.net/images/anime/1704/154459l.jpg",
+        "genres": [
+          "Fantasy"
+        ],
+        "score": 6.58,
+        "airing_day": "sunday",
+        "airing_time_jst": "22:00",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-15T13:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/60810/Majutsushi_Kunon_wa_Mieteiru"
+      },
+      {
+        "id": 61159,
+        "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+        "title_en": "Tojima Wants to Be a Kamen Rider",
+        "cover": "https://myanimelist.net/images/anime/1455/152139l.jpg",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "score": 7.57,
+        "airing_day": "sunday",
+        "airing_time_jst": "00:30",
+        "next_episode": 25,
+        "total_episodes": 24,
+        "next_air_utc": "2026-03-14T15:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61159/Toujima_Tanzaburou_wa_Kamen_Rider_ni_Naritai"
+      },
+      {
+        "id": 61663,
+        "title": "Uruwashi no Yoi no Tsuki",
+        "title_en": "In the Clear Moonlit Dusk",
+        "cover": "https://myanimelist.net/images/anime/1999/154569l.jpg",
+        "genres": [
+          "Romance"
+        ],
+        "score": 7.49,
+        "airing_day": "sunday",
+        "airing_time_jst": "16:30",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T07:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61663/Uruwashi_no_Yoi_no_Tsuki"
+      },
+      {
+        "id": 59047,
+        "title": "Tamon-kun Ima Docchi!?",
+        "title_en": "Tamon's B-Side",
+        "cover": "https://myanimelist.net/images/anime/1474/153320l.jpg",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "score": 7.89,
+        "airing_day": "sunday",
+        "airing_time_jst": "01:00",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-14T16:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/59047/Tamon-kun_Ima_Docchi"
+      },
+      {
+        "id": 58788,
+        "title": "Ikoku Nikki",
+        "title_en": "Journal with Witch",
+        "cover": "https://myanimelist.net/images/anime/1791/154233l.jpg",
+        "genres": [
+          "Drama"
+        ],
+        "score": 8.69,
+        "airing_day": "sunday",
+        "airing_time_jst": "23:00",
+        "next_episode": 14,
+        "total_episodes": 13,
+        "next_air_utc": "2026-03-15T14:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/58788/Ikoku_Nikki"
+      },
+      {
+        "id": 61128,
+        "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+        "title_en": "Jack-of-All-Trades, Party of None",
+        "cover": "https://myanimelist.net/images/anime/1486/153135l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "score": 6.66,
+        "airing_day": "sunday",
+        "airing_time_jst": "22:30",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-15T13:30:00Z",
+        "mal_url": "https://myanimelist.net/anime/61128/Yuusha_Party_wo_Oidasareta_Kiyoubinbou"
+      },
+      {
+        "id": 60371,
+        "title": "Seihantai na Kimi to Boku",
+        "title_en": "You and I Are Polar Opposites",
+        "cover": "https://myanimelist.net/images/anime/1140/154457l.jpg",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "score": 8.21,
+        "airing_day": "sunday",
+        "airing_time_jst": "17:00",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-15T08:00:00Z",
+        "mal_url": "https://myanimelist.net/anime/60371/Seihantai_na_Kimi_to_Boku"
+      },
+      {
+        "id": 55825,
+        "title": "Jigokuraku 2nd Season",
+        "title_en": "Hell's Paradise Season 2",
+        "cover": "https://myanimelist.net/images/anime/1772/154456l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Supernatural"
+        ],
+        "score": 8.24,
+        "airing_day": "sunday",
+        "airing_time_jst": "23:45",
+        "next_episode": 13,
+        "total_episodes": 12,
+        "next_air_utc": "2026-03-15T14:45:00Z",
+        "mal_url": "https://myanimelist.net/anime/55825/Jigokuraku_2nd_Season"
+      },
+      {
+        "id": 21,
+        "title": "One Piece",
+        "title_en": "One Piece",
+        "cover": "https://myanimelist.net/images/anime/1244/138851l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "score": 8.73,
+        "airing_day": "sunday",
+        "airing_time_jst": "23:15",
+        "next_episode": 1,
+        "total_episodes": null,
+        "next_air_utc": "2026-03-15T14:15:00Z",
+        "mal_url": "https://myanimelist.net/anime/21/One_Piece"
+      }
+    ]
+  }
 }
