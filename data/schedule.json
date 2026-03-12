@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T00:06:11.852108Z",
+  "generated_at": "2026-03-12T06:13:17.291846Z",
   "week": {
     "monday": [
       {
@@ -15,7 +15,7 @@
         "airing_time_jst": "Unknown",
         "next_episode": 27,
         "total_episodes": 26,
-        "next_air_utc": "2026-03-12T00:06:11.849728Z",
+        "next_air_utc": "2026-03-12T06:13:17.289668Z",
         "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
       },
       {
@@ -557,23 +557,6 @@
         "mal_url": "https://myanimelist.net/anime/63142/Metal_Cardbot_W"
       },
       {
-        "id": 62521,
-        "title": "#Kanagawa ni Sunderu Elf",
-        "title_en": "#Kanagawa ni Sunderu Elf",
-        "cover": "https://myanimelist.net/images/anime/1194/152817l.jpg",
-        "genres": [
-          "Comedy",
-          "Fantasy"
-        ],
-        "score": null,
-        "airing_day": "thursday",
-        "airing_time_jst": "12:00",
-        "next_episode": 1,
-        "total_episodes": null,
-        "next_air_utc": "2026-03-12T03:00:00Z",
-        "mal_url": "https://myanimelist.net/anime/62521/Kanagawa_ni_Sunderu_Elf"
-      },
-      {
         "id": 60071,
         "title": "Odayaka Kizoku no Kyuuka no Susume.",
         "title_en": "A Gentle Noble's Vacation Recommendation",
@@ -842,7 +825,7 @@
           "Fantasy",
           "Girls Love"
         ],
-        "score": 6.47,
+        "score": 6.46,
         "airing_day": "friday",
         "airing_time_jst": "00:30",
         "next_episode": 13,
@@ -1308,7 +1291,7 @@
         "airing_time_jst": "Unknown",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-12T00:06:11.851346Z",
+        "next_air_utc": "2026-03-12T06:13:17.291112Z",
         "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
       },
       {
@@ -1317,7 +1300,7 @@
         "title_en": "Himitsu no AiPri: Ring-hen",
         "cover": "https://myanimelist.net/images/anime/1799/148164l.jpg",
         "genres": [],
-        "score": 6.83,
+        "score": 6.85,
         "airing_day": "sunday",
         "airing_time_jst": "09:30",
         "next_episode": 1,
@@ -1633,8 +1616,8 @@
         "score": 7.49,
         "airing_day": "sunday",
         "airing_time_jst": "16:30",
-        "next_episode": 1,
-        "total_episodes": null,
+        "next_episode": 13,
+        "total_episodes": 12,
         "next_air_utc": "2026-03-15T07:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61663/Uruwashi_no_Yoi_no_Tsuki"
       },
