@@ -9,5 +9,5 @@ export default defineConfig({
         plugins: [tailwindcss()],
     },
     site: "https://astronaut.github.io",
-    ase: '/airukan',
+    base: '/airukan',
 });
