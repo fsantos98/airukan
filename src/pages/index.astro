@@ -22,7 +22,7 @@ const todayLabel = todayKey.charAt(0).toUpperCase() + todayKey.slice(1);
 ---
 
 <Base title="Today's Anime">
-  <Header />
+  <Header currentPath={Astro.url.pathname} />
   <main class="mx-auto max-w-4xl px-4 py-8">
     <div class="mb-8">
       <h1 class="text-3xl font-bold">Today's Anime</h1>

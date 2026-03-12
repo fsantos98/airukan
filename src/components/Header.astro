@@ -1,5 +1,9 @@
 ---
-const currentPath = Astro.url.pathname;
+interface Props {
+  currentPath?: string;
+}
+
+const { currentPath = "" } = Astro.props;
 ---
 
 <header class="border-b border-surface-lighter bg-surface-light">
