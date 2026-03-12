@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T12:04:39.349300Z",
+  "generated_at": "2026-03-12T18:12:44.019280Z",
   "week": {
     "monday": [
       {
@@ -15,7 +15,7 @@
         "airing_time_jst": "Unknown",
         "next_episode": 27,
         "total_episodes": 26,
-        "next_air_utc": "2026-03-12T12:04:39.347014Z",
+        "next_air_utc": "2026-03-12T18:12:44.017265Z",
         "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
       },
       {
@@ -587,7 +587,7 @@
         "airing_time_jst": "23:30",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-12T14:30:00Z",
+        "next_air_utc": "2026-03-19T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/60395/Toumei_Otoko_to_Ningen_Onna__Sonouchi_Fuufu_ni_Naru_Futari"
       },
       {
@@ -604,7 +604,7 @@
         "airing_time_jst": "23:56",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-12T14:56:00Z",
+        "next_air_utc": "2026-03-19T14:56:00Z",
         "mal_url": "https://myanimelist.net/anime/60151/Eris_no_Seihai"
       },
       {
@@ -640,7 +640,7 @@
         "airing_time_jst": "23:00",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-12T14:00:00Z",
+        "next_air_utc": "2026-03-19T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/58505/Mato_Seihei_no_Slave_2"
       },
       {
@@ -653,12 +653,12 @@
           "Adventure",
           "Fantasy"
         ],
-        "score": 8.17,
+        "score": 8.16,
         "airing_day": "thursday",
         "airing_time_jst": "22:30",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-12T13:30:00Z",
+        "next_air_utc": "2026-03-19T13:30:00Z",
         "mal_url": "https://myanimelist.net/anime/56009/Yuusha-kei_ni_Shosu__Choubatsu_Yuusha_9004-tai_Keimu_Kiroku"
       }
     ],
@@ -676,7 +676,7 @@
         "airing_time_jst": "01:58",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-12T16:58:00Z",
+        "next_air_utc": "2026-03-19T16:58:00Z",
         "mal_url": "https://myanimelist.net/anime/60947/Nmeneko"
       },
       {
@@ -760,7 +760,7 @@
         "airing_time_jst": "01:28",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-12T16:28:00Z",
+        "next_air_utc": "2026-03-19T16:28:00Z",
         "mal_url": "https://myanimelist.net/anime/61325/Douse_Koishite_Shimaunda_2nd_Season"
       },
       {
@@ -811,7 +811,7 @@
         "airing_time_jst": "01:58",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-12T16:58:00Z",
+        "next_air_utc": "2026-03-19T16:58:00Z",
         "mal_url": "https://myanimelist.net/anime/60509/Champignon_no_Majo"
       },
       {
@@ -830,7 +830,7 @@
         "airing_time_jst": "00:30",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-12T15:30:00Z",
+        "next_air_utc": "2026-03-19T15:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61587/Omae_Gotoki_ga_Maou_ni_Kateru_to_Omouna_to_Yuusha_Party_wo_Tsuihou_sareta_node_Outo_de_Kimama_ni_Kurashitai"
       },
       {
@@ -883,7 +883,7 @@
         "airing_time_jst": "00:26",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-12T15:26:00Z",
+        "next_air_utc": "2026-03-19T15:26:00Z",
         "mal_url": "https://myanimelist.net/anime/57658/Jujutsu_Kaisen__Shimetsu_Kaiyuu_-_Zenpen"
       },
       {
@@ -1131,7 +1131,7 @@
           "Adventure",
           "Fantasy"
         ],
-        "score": 6.86,
+        "score": 6.87,
         "airing_day": "saturday",
         "airing_time_jst": "01:05",
         "next_episode": 13,
@@ -1291,7 +1291,7 @@
         "airing_time_jst": "Unknown",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-12T12:04:39.348548Z",
+        "next_air_utc": "2026-03-12T18:12:44.018575Z",
         "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
       },
       {
