@@ -8,24 +8,24 @@ const { currentPath = "" } = Astro.props;
 
 <header class="border-b border-surface-lighter bg-surface-light">
   <nav class="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
-    <a href="/" class="text-2xl font-bold text-primary-light tracking-tight">
+    <a href="/airukan/" class="text-2xl font-bold text-primary-light tracking-tight">
       Airukan
     </a>
     <div class="flex gap-6 text-sm font-medium">
       <a
-        href="/"
+        href="/airukan/"
         class:list={[
           "transition-colors hover:text-primary-light",
-          currentPath === "/" ? "text-primary-light" : "text-text-muted",
+          currentPath === "/airukan/" ? "text-primary-light" : "text-text-muted",
         ]}
       >
         Today
       </a>
       <a
-        href="/schedule"
+        href="/airukan/schedule"
         class:list={[
           "transition-colors hover:text-primary-light",
-          currentPath === "/schedule" ? "text-primary-light" : "text-text-muted",
+          currentPath === "/airukan/schedule" ? "text-primary-light" : "text-text-muted",
         ]}
       >
         Schedule

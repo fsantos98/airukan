@@ -24,6 +24,23 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v5
 
+      - name: Determine changed paths
+        uses: dorny/paths-filter@v2
+        id: changes
+        with:
+          filters: |
+            tests:
+              - 'src/**'
+              - 'pipeline/**'
+              - 'package.json'
+              - 'package-lock.json'
+              - 'yarn.lock'
+              - 'pnpm-lock.yaml'
+              - 'requirements.txt'
+              - 'playwright.config.ts'
+              - 'vitest.config.ts'
+              - '.github/workflows/**'
+
       - name: Install, build, and upload your site
         uses: withastro/action@v5
         with:
@@ -36,6 +53,7 @@ jobs:
         run: npm ci
 
       - name: Run unit tests
+        if: steps.changes.outputs.tests == 'true'
         run: npm run test
 
       - name: Build site
@@ -45,6 +63,7 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: Run E2E tests
+        if: steps.changes.outputs.tests == 'true'
         run: npm run test:e2e
 
       - name: Deploy to GitHub Pages
