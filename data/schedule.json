@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T06:12:12.959903Z",
+  "generated_at": "2026-03-13T12:05:41.919621Z",
   "week": {
     "monday": [
       {
@@ -16,7 +16,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 27,
         "total_episodes": 26,
-        "next_air_utc": "2026-03-13T06:12:12.950443Z",
+        "next_air_utc": "2026-03-13T12:05:41.912865Z",
         "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
       },
       {
@@ -746,13 +746,13 @@
           "Comedy",
           "Fantasy"
         ],
-        "score": 6.65,
+        "score": 6.67,
         "airing_day": "friday",
         "airing_time": "16:20",
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T07:20:00Z",
+        "next_air_utc": "2026-03-20T07:20:00Z",
         "mal_url": "https://myanimelist.net/anime/1960/Sore_Ike_Anpanman"
       },
       {
@@ -770,7 +770,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T09:25:00Z",
+        "next_air_utc": "2026-03-20T09:25:00Z",
         "mal_url": "https://myanimelist.net/anime/56566/Beyblade_X"
       },
       {
@@ -787,7 +787,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 25,
         "total_episodes": 24,
-        "next_air_utc": "2026-03-13T11:30:00Z",
+        "next_air_utc": "2026-03-20T11:30:00Z",
         "mal_url": "https://myanimelist.net/anime/62378/Ganglion"
       },
       {
@@ -840,7 +840,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T10:00:00Z",
+        "next_air_utc": "2026-03-20T10:00:00Z",
         "mal_url": "https://myanimelist.net/anime/8687/Doraemon_2005"
       },
       {
@@ -899,7 +899,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T09:55:00Z",
+        "next_air_utc": "2026-03-20T09:55:00Z",
         "mal_url": "https://myanimelist.net/anime/53876/Pokemon_2023"
       },
       {
@@ -917,7 +917,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T10:30:00Z",
+        "next_air_utc": "2026-03-20T10:30:00Z",
         "mal_url": "https://myanimelist.net/anime/966/Crayon_Shin-chan"
       },
       {
@@ -1367,7 +1367,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T06:12:12.959150Z",
+        "next_air_utc": "2026-03-13T12:05:41.918860Z",
         "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
       },
       {
@@ -1461,7 +1461,7 @@
         "genres": [
           "Comedy"
         ],
-        "score": 7.42,
+        "score": 7.43,
         "airing_day": "sunday",
         "airing_time": "18:00",
         "broadcast_timezone": "Asia/Tokyo",
