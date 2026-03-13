@@ -12,7 +12,7 @@ from pipeline.writer import write_last_updated, write_schedule
 logger = logging.getLogger(__name__)
 
 JIKAN_BASE_URL = "https://api.jikan.moe/v4"
-REQUEST_DELAY = 0.4  # seconds between requests (Jikan rate limit: 3 req/sec)
+REQUEST_DELAY = 1  # seconds between requests (Jikan rate limit: 3 req/sec)
 
 DAYS = [
     "monday",

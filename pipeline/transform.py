@@ -132,7 +132,7 @@ def transform_anime(raw: dict[str, Any]) -> Optional[AnimeEntry]:
 
     airing_time = _parse_broadcast_time(broadcast)
     broadcast_timezone = (
-        broadcast.get("timezone", "Asia/Tokyo") if broadcast else "Asia/Tokyo"
+        (broadcast.get("timezone") or "Asia/Tokyo") if broadcast else "Asia/Tokyo"
     )
 
     # Episode info
