@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T12:05:41.919621Z",
+  "generated_at": "2026-03-13T18:07:32.324551Z",
   "week": {
     "monday": [
       {
@@ -16,7 +16,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 27,
         "total_episodes": 26,
-        "next_air_utc": "2026-03-13T12:05:41.912865Z",
+        "next_air_utc": "2026-03-13T18:07:32.321685Z",
         "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
       },
       {
@@ -347,7 +347,7 @@
           "Fantasy",
           "Romance"
         ],
-        "score": 6.3,
+        "score": 6.29,
         "airing_day": "tuesday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -734,7 +734,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-13T14:30:00Z",
+        "next_air_utc": "2026-03-20T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/62804/High_School_Kimengumi_2026"
       },
       {
@@ -954,7 +954,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 11,
         "total_episodes": 10,
-        "next_air_utc": "2026-03-13T14:00:00Z",
+        "next_air_utc": "2026-03-20T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season"
       }
     ],
@@ -1147,7 +1147,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-13T15:00:00Z",
+        "next_air_utc": "2026-03-20T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/59853/Dark_Moon__Tsuki_no_Saidan"
       },
       {
@@ -1203,7 +1203,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-13T16:05:00Z",
+        "next_air_utc": "2026-03-20T16:05:00Z",
         "mal_url": "https://myanimelist.net/anime/60460/Hell_Mode__Yarikomizuki_no_Gamer_wa_Hai_Settei_no_Isekai_de_Musou_suru"
       },
       {
@@ -1295,7 +1295,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 14,
         "total_episodes": 13,
-        "next_air_utc": "2026-03-13T16:53:00Z",
+        "next_air_utc": "2026-03-20T16:53:00Z",
         "mal_url": "https://myanimelist.net/anime/59229/Enen_no_Shouboutai__San_no_Shou_Part_2"
       },
       {
@@ -1367,7 +1367,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T12:05:41.918860Z",
+        "next_air_utc": "2026-03-13T18:07:32.323786Z",
         "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
       },
       {
@@ -1762,7 +1762,7 @@
           "Adventure",
           "Fantasy"
         ],
-        "score": 6.66,
+        "score": 6.65,
         "airing_day": "sunday",
         "airing_time": "22:30",
         "broadcast_timezone": "Asia/Tokyo",
