@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T00:53:26.465056Z",
+  "generated_at": "2026-03-13T06:12:12.959903Z",
   "week": {
     "monday": [
       {
@@ -16,7 +16,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 27,
         "total_episodes": 26,
-        "next_air_utc": "2026-03-13T00:53:26.456401Z",
+        "next_air_utc": "2026-03-13T06:12:12.950443Z",
         "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
       },
       {
@@ -873,7 +873,7 @@
           "Fantasy",
           "Girls Love"
         ],
-        "score": 6.46,
+        "score": 6.45,
         "airing_day": "friday",
         "airing_time": "00:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1056,7 +1056,7 @@
         "genres": [
           "Action"
         ],
-        "score": 6.4,
+        "score": 6.41,
         "airing_day": "saturday",
         "airing_time": "08:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1124,7 +1124,7 @@
         "genres": [
           "Action"
         ],
-        "score": 7.03,
+        "score": 7.04,
         "airing_day": "saturday",
         "airing_time": "17:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1367,7 +1367,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T00:53:26.464292Z",
+        "next_air_utc": "2026-03-13T06:12:12.959150Z",
         "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
       },
       {
@@ -1376,7 +1376,7 @@
         "title_en": "Himitsu no AiPri: Ring-hen",
         "cover": "https://myanimelist.net/images/anime/1799/148164l.jpg",
         "genres": [],
-        "score": 6.85,
+        "score": 6.89,
         "airing_day": "sunday",
         "airing_time": "09:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1444,12 +1444,12 @@
           "Action",
           "Fantasy"
         ],
-        "score": 6.85,
+        "score": 6.86,
         "airing_day": "sunday",
         "airing_time": "09:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
-        "total_episodes": null,
+        "next_episode": 49,
+        "total_episodes": 48,
         "next_air_utc": "2026-03-15T00:00:00Z",
         "mal_url": "https://myanimelist.net/anime/59078/Princession_Orchestra"
       },
