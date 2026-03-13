@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T18:12:44.019280Z",
+  "generated_at": "2026-03-13T00:53:26.465056Z",
   "week": {
     "monday": [
       {
@@ -16,7 +16,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 27,
         "total_episodes": 26,
-        "next_air_utc": "2026-03-12T18:12:44.017265Z",
+        "next_air_utc": "2026-03-13T00:53:26.456401Z",
         "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
       },
       {
@@ -95,7 +95,7 @@
           "Horror",
           "Supernatural"
         ],
-        "score": 5.87,
+        "score": 5.88,
         "airing_day": "monday",
         "airing_time": "02:20",
         "broadcast_timezone": "Asia/Tokyo",
@@ -114,7 +114,7 @@
           "Horror",
           "Supernatural"
         ],
-        "score": 5.87,
+        "score": 5.88,
         "airing_day": "monday",
         "airing_time": "02:20",
         "broadcast_timezone": "Asia/Tokyo",
@@ -256,7 +256,7 @@
           "Boys Love",
           "Fantasy"
         ],
-        "score": 5.52,
+        "score": 5.53,
         "airing_day": "tuesday",
         "airing_time": "21:55",
         "broadcast_timezone": "Asia/Tokyo",
@@ -328,7 +328,7 @@
           "Comedy",
           "Romance"
         ],
-        "score": 7.26,
+        "score": 7.25,
         "airing_day": "tuesday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -365,7 +365,7 @@
           "Comedy",
           "Romance"
         ],
-        "score": 7.25,
+        "score": 7.24,
         "airing_day": "tuesday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -455,7 +455,7 @@
           "Fantasy",
           "Mystery"
         ],
-        "score": 6.2,
+        "score": 6.19,
         "airing_day": "wednesday",
         "airing_time": "01:29",
         "broadcast_timezone": "Asia/Tokyo",
@@ -490,7 +490,7 @@
           "Comedy",
           "Fantasy"
         ],
-        "score": 7.2,
+        "score": 7.21,
         "airing_day": "wednesday",
         "airing_time": "22:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -525,7 +525,7 @@
           "Action",
           "Suspense"
         ],
-        "score": 7.55,
+        "score": 7.54,
         "airing_day": "wednesday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -672,7 +672,7 @@
           "Fantasy",
           "Ecchi"
         ],
-        "score": 7.46,
+        "score": 7.47,
         "airing_day": "thursday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -799,7 +799,7 @@
           "Drama",
           "Romance"
         ],
-        "score": 6.47,
+        "score": 6.46,
         "airing_day": "friday",
         "airing_time": "01:28",
         "broadcast_timezone": "Asia/Tokyo",
@@ -822,7 +822,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-12T22:40:00Z",
+        "next_air_utc": "2026-03-19T22:40:00Z",
         "mal_url": "https://myanimelist.net/anime/50250/Chiikawa"
       },
       {
@@ -1039,7 +1039,7 @@
         "genres": [
           "Slice of Life"
         ],
-        "score": 6.15,
+        "score": 6.16,
         "airing_day": "saturday",
         "airing_time": "07:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1178,7 +1178,7 @@
           "Action",
           "Supernatural"
         ],
-        "score": 6.37,
+        "score": 6.38,
         "airing_day": "saturday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1214,7 +1214,7 @@
         "genres": [
           "Fantasy"
         ],
-        "score": 6.83,
+        "score": 6.84,
         "airing_day": "saturday",
         "airing_time": "22:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1251,7 +1251,7 @@
           "Action",
           "Fantasy"
         ],
-        "score": 8.51,
+        "score": 8.5,
         "airing_day": "saturday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1367,7 +1367,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-12T18:12:44.018575Z",
+        "next_air_utc": "2026-03-13T00:53:26.464292Z",
         "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
       },
       {
@@ -1426,7 +1426,7 @@
         "title_en": "Oedo Fire Slayer: The Legend of Phoenix",
         "cover": "https://myanimelist.net/images/anime/1129/151615l.jpg",
         "genres": [],
-        "score": 4.75,
+        "score": 4.74,
         "airing_day": "sunday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1638,7 +1638,7 @@
           "Horror",
           "Supernatural"
         ],
-        "score": 7.25,
+        "score": 7.26,
         "airing_day": "sunday",
         "airing_time": "17:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1691,7 +1691,7 @@
           "Action",
           "Comedy"
         ],
-        "score": 7.57,
+        "score": 7.56,
         "airing_day": "sunday",
         "airing_time": "00:30",
         "broadcast_timezone": "Asia/Tokyo",
