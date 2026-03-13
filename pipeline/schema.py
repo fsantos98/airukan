@@ -16,7 +16,8 @@ class AnimeEntry(BaseModel):
     genres: list[str]
     score: Optional[float] = None
     airing_day: str
-    airing_time_jst: str
+    airing_time: str
+    broadcast_timezone: str = "Asia/Tokyo"
     next_episode: int
     total_episodes: Optional[int] = None
     next_air_utc: datetime

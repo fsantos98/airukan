@@ -141,7 +141,7 @@ class TestTransformAnime:
         assert result.genres == ["Action", "Fantasy"]
         assert result.score == 8.5
         assert result.airing_day == "saturday"
-        assert result.airing_time_jst == "23:00"
+        assert result.airing_time == "23:00"
         assert result.total_episodes == 12
         assert result.mal_url == "https://myanimelist.net/anime/12345"
 
@@ -185,7 +185,7 @@ class TestTransformAnime:
         result = transform_anime(raw)
         assert result is not None
         assert result.airing_day == "unknown"
-        assert result.airing_time_jst == "Unknown"
+        assert result.airing_time == "Unknown"
 
 
 class TestTransformSchedule:

@@ -30,6 +30,15 @@ const { currentPath = "" } = Astro.props;
       >
         Schedule
       </a>
+      <a
+        href="/airukan/settings"
+        class:list={[
+          "transition-colors hover:text-primary-light",
+          currentPath === "/airukan/settings" ? "text-primary-light" : "text-text-muted",
+        ]}
+      >
+        Settings
+      </a>
     </div>
   </nav>
 </header>

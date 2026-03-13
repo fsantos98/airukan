@@ -1,12 +1,14 @@
 ---
 import Base from "../layouts/Base.astro";
 import Header from "../components/Header.astro";
-import DayColumn from "../components/DayColumn.astro";
+import ScheduleGrid from "../components/ScheduleGrid";
 import { loadSchedule, loadLastUpdated } from "../lib/data";
-import { WEEKDAYS } from "../lib/time";
+import type { AnimeEntry } from "../lib/types";
 
 const schedule = loadSchedule();
 const lastUpdated = loadLastUpdated();
+
+const allAnime: AnimeEntry[] = Object.values(schedule.week).flat();
 ---
 
 <Base title="Weekly Schedule">
@@ -17,14 +19,7 @@ const lastUpdated = loadLastUpdated();
       <p class="mt-1 text-text-muted">All currently airing anime by day</p>
     </div>
 
-    <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-      {WEEKDAYS.map((day) => (
-        <DayColumn
-          day={day}
-          entries={schedule.week[day] ?? []}
-        />
-      ))}
-    </div>
+    <ScheduleGrid client:load allAnime={allAnime} />
 
     <footer class="mt-12 border-t border-surface-lighter pt-4 text-xs text-text-muted">
       Data last updated: {new Date(lastUpdated.utc).toUTCString()} &middot; Source: {lastUpdated.source}

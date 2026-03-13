@@ -14,7 +14,8 @@ export interface AnimeEntry {
     | "friday"
     | "saturday"
     | "sunday";
-  airing_time_jst: string;
+  airing_time: string;
+  broadcast_timezone: string;
   next_episode: number;
   total_episodes: number | null;
   next_air_utc: string;

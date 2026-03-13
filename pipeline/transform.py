@@ -1,7 +1,8 @@
 """Transform raw Jikan API responses into clean AnimeEntry objects."""
 
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from typing import Any, Optional
+from zoneinfo import ZoneInfo
 
 from pipeline.schema import AnimeEntry
 
@@ -26,10 +27,12 @@ def _parse_broadcast_time(broadcast: Optional[dict[str, Any]]) -> str:
 
 def _compute_next_air_utc(
     airing_day: str,
-    airing_time_jst: str,
+    airing_time: str,
+    broadcast_timezone: str = "Asia/Tokyo",
 ) -> datetime:
-    """Compute the next UTC air datetime from day and JST time.
+    """Compute the next UTC air datetime from day and broadcast time.
 
+    Converts from the broadcast timezone to UTC.
     Uses the current week to estimate the next airing date.
     Falls back to current UTC time if time cannot be parsed.
     """
@@ -46,42 +49,35 @@ def _compute_next_air_utc(
     }
 
     target_weekday = day_map.get(airing_day.lower())
-    if target_weekday is None or airing_time_jst == "Unknown":
+    if target_weekday is None or airing_time == "Unknown":
         return now
 
     try:
-        hour, minute = map(int, airing_time_jst.split(":"))
+        hour, minute = map(int, airing_time.split(":"))
     except (ValueError, AttributeError):
         return now
 
-    # JST is UTC+9
-    jst_offset_hours = 9
-    utc_hour = hour - jst_offset_hours
-    day_adjustment = 0
-    if utc_hour < 0:
-        utc_hour += 24
-        day_adjustment = -1
+    try:
+        tz = ZoneInfo(broadcast_timezone)
+    except (KeyError, ValueError):
+        tz = ZoneInfo("Asia/Tokyo")
 
-    current_weekday = now.weekday()
-    days_ahead = target_weekday - current_weekday + day_adjustment
+    now_local = now.astimezone(tz)
+    current_weekday = now_local.weekday()
+    days_ahead = target_weekday - current_weekday
     if days_ahead < 0:
         days_ahead += 7
 
-    next_air = now.replace(
-        hour=utc_hour,
-        minute=minute,
-        second=0,
-        microsecond=0,
+    target_date = now_local.date() + timedelta(days=days_ahead)
+    local_dt = datetime(
+        target_date.year, target_date.month, target_date.day,
+        hour, minute, 0, tzinfo=tz,
     )
-    from datetime import timedelta
 
-    next_air = next_air + timedelta(days=days_ahead)
+    if local_dt <= now.astimezone(tz):
+        local_dt += timedelta(days=7)
 
-    # If the computed time is in the past, push to next week
-    if next_air < now:
-        next_air += timedelta(days=7)
-
-    return next_air
+    return local_dt.astimezone(timezone.utc)
 
 
 def _normalize_day(day_str: Optional[str]) -> str:
@@ -134,7 +130,10 @@ def transform_anime(raw: dict[str, Any]) -> Optional[AnimeEntry]:
         airing_day_raw.rstrip("s") if airing_day_raw else None
     )
 
-    airing_time_jst = _parse_broadcast_time(broadcast)
+    airing_time = _parse_broadcast_time(broadcast)
+    broadcast_timezone = (
+        broadcast.get("timezone", "Asia/Tokyo") if broadcast else "Asia/Tokyo"
+    )
 
     # Episode info
     aired_episodes = raw.get("episodes", 0) or 0
@@ -146,7 +145,7 @@ def transform_anime(raw: dict[str, Any]) -> Optional[AnimeEntry]:
 
     total_episodes = raw.get("episodes")
 
-    next_air_utc = _compute_next_air_utc(airing_day, airing_time_jst)
+    next_air_utc = _compute_next_air_utc(airing_day, airing_time, broadcast_timezone)
 
     mal_url = raw.get("url", f"https://myanimelist.net/anime/{mal_id}")
 
@@ -158,7 +157,8 @@ def transform_anime(raw: dict[str, Any]) -> Optional[AnimeEntry]:
         genres=genres,
         score=score,
         airing_day=airing_day,
-        airing_time_jst=airing_time_jst,
+        airing_time=airing_time,
+        broadcast_timezone=broadcast_timezone,
         next_episode=next_episode,
         total_episodes=total_episodes,
         next_air_utc=next_air_utc,

@@ -27,7 +27,7 @@ def sample_week() -> dict[str, list[AnimeEntry]]:
         genres=["Action", "Fantasy"],
         score=8.7,
         airing_day="saturday",
-        airing_time_jst="23:00",
+        airing_time="23:00",
         next_episode=8,
         total_episodes=12,
         next_air_utc=datetime(2025, 3, 1, 14, 0, 0, tzinfo=timezone.utc),
