@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T12:03:03.787203Z",
+  "generated_at": "2026-03-14T18:04:04.829927Z",
   "week": {
     "monday": [
       {
@@ -16,7 +16,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 27,
         "total_episodes": 26,
-        "next_air_utc": "2026-03-14T12:03:03.776807Z",
+        "next_air_utc": "2026-03-14T18:04:04.827427Z",
         "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
       },
       {
@@ -48,7 +48,7 @@
         "airing_day": "monday",
         "airing_time": "20:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-16T11:00:00Z",
         "mal_url": "https://myanimelist.net/anime/62987/Hokuto_no_Ken__Kenougun_Zako-tachi_no_Banka"
@@ -65,7 +65,7 @@
         "airing_day": "monday",
         "airing_time": "20:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-16T11:00:00Z",
         "mal_url": "https://myanimelist.net/anime/62987/Hokuto_no_Ken__Kenougun_Zako-tachi_no_Banka"
@@ -99,7 +99,7 @@
         "airing_day": "monday",
         "airing_time": "02:20",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 10,
         "total_episodes": null,
         "next_air_utc": "2026-03-15T17:20:00Z",
         "mal_url": "https://myanimelist.net/anime/63087/Yami_Shibai_16"
@@ -118,7 +118,7 @@
         "airing_day": "monday",
         "airing_time": "02:20",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 10,
         "total_episodes": null,
         "next_air_utc": "2026-03-15T17:20:00Z",
         "mal_url": "https://myanimelist.net/anime/63087/Yami_Shibai_16"
@@ -135,7 +135,7 @@
         "airing_day": "monday",
         "airing_time": "00:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-15T15:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61886/Goumon_Baito-kun_no_Nichijou"
@@ -154,7 +154,7 @@
         "airing_day": "monday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 10,
         "total_episodes": 12,
         "next_air_utc": "2026-03-16T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/58524/Himesama_Goumon_no_Jikan_desu_2nd_Season"
@@ -171,7 +171,7 @@
         "airing_day": "monday",
         "airing_time": "22:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-16T13:00:00Z",
         "mal_url": "https://myanimelist.net/anime/61782/Kirei_ni_Shitemoraemasu_ka"
@@ -189,7 +189,7 @@
         "airing_day": "monday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 11,
         "total_episodes": 13,
         "next_air_utc": "2026-03-16T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/55772/Golden_Kamuy__Saishuushou"
@@ -206,7 +206,7 @@
         "airing_day": "monday",
         "airing_time": "22:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 11,
         "total_episodes": 13,
         "next_air_utc": "2026-03-16T13:00:00Z",
         "mal_url": "https://myanimelist.net/anime/61942/Vigilante__Boku_no_Hero_Academia_Illegals_2nd_Season"
@@ -260,9 +260,9 @@
         "airing_day": "tuesday",
         "airing_time": "21:55",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 12,
         "total_episodes": null,
-        "next_air_utc": "2026-03-17T12:55:00Z",
+        "next_air_utc": "2026-03-21T13:00:00Z",
         "mal_url": "https://myanimelist.net/anime/61969/Saioshi_no_Gikei_wo_Mederu_Tame_Nagaiki_shimasu"
       },
       {
@@ -278,7 +278,7 @@
         "airing_day": "tuesday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-17T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61830/Yoroi_Shin_Den_Samurai_Troopers"
@@ -296,7 +296,7 @@
         "airing_day": "tuesday",
         "airing_time": "00:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-16T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/61359/Osananajimi_to_wa_Love_Comedy_ni_Naranai"
@@ -314,7 +314,7 @@
         "airing_day": "tuesday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-17T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/60226/Isekai_no_Sata_wa_Shachiku_Shidai"
@@ -332,7 +332,7 @@
         "airing_day": "tuesday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-17T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/61211/Mayonaka_Heart_Tune"
@@ -351,7 +351,7 @@
         "airing_day": "tuesday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 11,
         "total_episodes": 13,
         "next_air_utc": "2026-03-17T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/61983/Yuusha_Party_ni_Kawaii_Ko_ga_Ita_node_Kokuhaku_shitemita"
@@ -369,9 +369,9 @@
         "airing_day": "tuesday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 11,
         "total_episodes": 13,
-        "next_air_utc": "2026-03-17T14:00:00Z",
+        "next_air_utc": "2026-03-30T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/59517/Chitose-kun_wa_Ramune_Bin_no_Naka"
       }
     ],
@@ -388,9 +388,9 @@
         "airing_day": "wednesday",
         "airing_time": "21:54",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 9,
         "total_episodes": null,
-        "next_air_utc": "2026-03-18T12:54:00Z",
+        "next_air_utc": "2026-03-18T00:54:00Z",
         "mal_url": "https://myanimelist.net/anime/63216/Gelpiyo"
       },
       {
@@ -405,9 +405,9 @@
         "airing_day": "wednesday",
         "airing_time": "07:05",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 38,
         "total_episodes": null,
-        "next_air_utc": "2026-03-17T22:05:00Z",
+        "next_air_utc": "2026-03-17T22:06:00Z",
         "mal_url": "https://myanimelist.net/anime/61765/Chibi_Godzilla_no_Gyakushuu_3rd_Season"
       },
       {
@@ -441,9 +441,9 @@
         "airing_day": "wednesday",
         "airing_time": "23:45",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 11,
         "total_episodes": 13,
-        "next_air_utc": "2026-03-18T14:45:00Z",
+        "next_air_utc": "2026-03-18T14:46:00Z",
         "mal_url": "https://myanimelist.net/anime/61608/Jigoku_Sensei_Nube_2025_Part_2"
       },
       {
@@ -459,7 +459,7 @@
         "airing_day": "wednesday",
         "airing_time": "01:29",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-17T16:29:00Z",
         "mal_url": "https://myanimelist.net/anime/60255/Arne_no_Jikenbo"
@@ -476,7 +476,7 @@
         "airing_day": "wednesday",
         "airing_time": "21:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-18T12:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61637/29-sai_Dokushin_Chuuken_Boukensha_no_Nichijou"
@@ -494,9 +494,9 @@
         "airing_day": "wednesday",
         "airing_time": "22:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 12,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-18T13:00:00Z",
+        "next_air_utc": "2026-03-17T13:00:00Z",
         "mal_url": "https://myanimelist.net/anime/61884/Maou_no_Musume_wa_Yasashisugiru"
       },
       {
@@ -511,7 +511,7 @@
         "airing_day": "wednesday",
         "airing_time": "00:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 11,
         "total_episodes": 13,
         "next_air_utc": "2026-03-17T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/58886/Darwin_Jihen"
@@ -529,7 +529,7 @@
         "airing_day": "wednesday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 12,
+        "next_episode": 11,
         "total_episodes": 11,
         "next_air_utc": "2026-03-18T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/59711/Shibou_Yuugi_de_Meshi_wo_Kuu"
@@ -546,7 +546,7 @@
         "airing_day": "wednesday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 12,
+        "next_episode": 10,
         "total_episodes": 11,
         "next_air_utc": "2026-03-18T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season"
@@ -602,7 +602,7 @@
         "airing_day": "thursday",
         "airing_time": "00:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-18T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/60071/Odayaka_Kizoku_no_Kyuuka_no_Susume"
@@ -620,7 +620,7 @@
         "airing_day": "thursday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-19T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/60395/Toumei_Otoko_to_Ningen_Onna__Sonouchi_Fuufu_ni_Naru_Futari"
@@ -638,7 +638,7 @@
         "airing_day": "thursday",
         "airing_time": "23:56",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 11,
         "total_episodes": null,
         "next_air_utc": "2026-03-19T14:56:00Z",
         "mal_url": "https://myanimelist.net/anime/60151/Eris_no_Seihai"
@@ -657,9 +657,9 @@
         "airing_day": "thursday",
         "airing_time": "00:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-18T15:00:00Z",
+        "next_air_utc": "2026-03-15T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/60692/Kizoku_Tensei__Megumareta_Umare_kara_Saikyou_no_Chikara_wo_Eru"
       },
       {
@@ -676,7 +676,7 @@
         "airing_day": "thursday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-19T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/58505/Mato_Seihei_no_Slave_2"
@@ -695,7 +695,7 @@
         "airing_day": "thursday",
         "airing_time": "22:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-19T13:30:00Z",
         "mal_url": "https://myanimelist.net/anime/56009/Yuusha-kei_ni_Shosu__Choubatsu_Yuusha_9004-tai_Keimu_Kiroku"
@@ -732,7 +732,7 @@
         "airing_day": "friday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-20T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/62804/High_School_Kimengumi_2026"
@@ -768,7 +768,7 @@
         "airing_day": "friday",
         "airing_time": "18:25",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 121,
         "total_episodes": null,
         "next_air_utc": "2026-03-20T09:25:00Z",
         "mal_url": "https://myanimelist.net/anime/56566/Beyblade_X"
@@ -785,9 +785,9 @@
         "airing_day": "friday",
         "airing_time": "20:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 25,
+        "next_episode": 23,
         "total_episodes": 24,
-        "next_air_utc": "2026-03-20T11:30:00Z",
+        "next_air_utc": "2026-03-20T13:22:00Z",
         "mal_url": "https://myanimelist.net/anime/62378/Ganglion"
       },
       {
@@ -803,7 +803,7 @@
         "airing_day": "friday",
         "airing_time": "01:28",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-19T16:28:00Z",
         "mal_url": "https://myanimelist.net/anime/61325/Douse_Koishite_Shimaunda_2nd_Season"
@@ -820,9 +820,9 @@
         "airing_day": "friday",
         "airing_time": "07:40",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 326,
         "total_episodes": null,
-        "next_air_utc": "2026-03-19T22:40:00Z",
+        "next_air_utc": "2026-03-16T22:40:00Z",
         "mal_url": "https://myanimelist.net/anime/50250/Chiikawa"
       },
       {
@@ -838,9 +838,9 @@
         "airing_day": "friday",
         "airing_time": "19:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 907,
         "total_episodes": null,
-        "next_air_utc": "2026-03-20T10:00:00Z",
+        "next_air_utc": "2026-03-21T08:00:00Z",
         "mal_url": "https://myanimelist.net/anime/8687/Doraemon_2005"
       },
       {
@@ -857,7 +857,7 @@
         "airing_day": "friday",
         "airing_time": "01:58",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 12,
         "total_episodes": 12,
         "next_air_utc": "2026-03-19T16:58:00Z",
         "mal_url": "https://myanimelist.net/anime/60509/Champignon_no_Majo"
@@ -877,7 +877,7 @@
         "airing_day": "friday",
         "airing_time": "00:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-19T15:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61587/Omae_Gotoki_ga_Maou_ni_Kateru_to_Omouna_to_Yuusha_Party_wo_Tsuihou_sareta_node_Outo_de_Kimama_ni_Kurashitai"
@@ -897,7 +897,7 @@
         "airing_day": "friday",
         "airing_time": "18:55",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 132,
         "total_episodes": null,
         "next_air_utc": "2026-03-20T09:55:00Z",
         "mal_url": "https://myanimelist.net/anime/53876/Pokemon_2023"
@@ -915,9 +915,9 @@
         "airing_day": "friday",
         "airing_time": "19:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 1327,
         "total_episodes": null,
-        "next_air_utc": "2026-03-20T10:30:00Z",
+        "next_air_utc": "2026-03-21T07:30:00Z",
         "mal_url": "https://myanimelist.net/anime/966/Crayon_Shin-chan"
       },
       {
@@ -929,11 +929,11 @@
           "Action",
           "Supernatural"
         ],
-        "score": 8.58,
+        "score": 8.59,
         "airing_day": "friday",
         "airing_time": "00:26",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-19T15:26:00Z",
         "mal_url": "https://myanimelist.net/anime/57658/Jujutsu_Kaisen__Shimetsu_Kaiyuu_-_Zenpen"
@@ -952,7 +952,7 @@
         "airing_day": "friday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 11,
+        "next_episode": 9,
         "total_episodes": 10,
         "next_air_utc": "2026-03-20T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season"
@@ -972,7 +972,7 @@
         "airing_day": "saturday",
         "airing_time": "05:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 11,
         "total_episodes": null,
         "next_air_utc": "2026-03-20T20:00:00Z",
         "mal_url": "https://myanimelist.net/anime/63106/Hoppe-chan__Sun_Oukoku_to_Kuro_Hoppe-dan_no_Himitsu"
@@ -1043,7 +1043,7 @@
         "airing_day": "saturday",
         "airing_time": "07:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 50,
         "total_episodes": null,
         "next_air_utc": "2026-03-20T22:00:00Z",
         "mal_url": "https://myanimelist.net/anime/60070/Kaijuu_Sekai_Seifuku_TV"
@@ -1060,7 +1060,7 @@
         "airing_day": "saturday",
         "airing_time": "08:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 9,
         "total_episodes": null,
         "next_air_utc": "2026-03-20T23:00:00Z",
         "mal_url": "https://myanimelist.net/anime/62649/Cardfight_Vanguard__Divinez_Genma_Seisen-hen"
@@ -1077,9 +1077,9 @@
         "airing_day": "saturday",
         "airing_time": "21:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 11,
         "total_episodes": null,
-        "next_air_utc": "2026-03-14T12:30:00Z",
+        "next_air_utc": "2026-03-21T12:30:00Z",
         "mal_url": "https://myanimelist.net/anime/62864/Omae_wa_Mada_Gunma_wo_Shiranai__Reiwa-ban"
       },
       {
@@ -1094,9 +1094,9 @@
         "airing_day": "saturday",
         "airing_time": "07:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 208,
         "total_episodes": null,
-        "next_air_utc": "2026-03-20T22:00:00Z",
+        "next_air_utc": "2026-03-20T22:30:00Z",
         "mal_url": "https://myanimelist.net/anime/50418/Ninjala_TV"
       },
       {
@@ -1145,7 +1145,7 @@
         "airing_day": "saturday",
         "airing_time": "00:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
         "next_air_utc": "2026-03-20T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/59853/Dark_Moon__Tsuki_no_Saidan"
@@ -1164,9 +1164,9 @@
         "airing_day": "saturday",
         "airing_time": "21:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-14T12:30:00Z",
+        "next_air_utc": "2026-03-21T12:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61207/Tensei_shitara_Dragon_no_Tamago_datta"
       },
       {
@@ -1182,9 +1182,9 @@
         "airing_day": "saturday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-14T14:30:00Z",
+        "next_air_utc": "2026-03-21T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61196/Dead_Account"
       },
       {
@@ -1201,9 +1201,9 @@
         "airing_day": "saturday",
         "airing_time": "01:05",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-20T16:05:00Z",
+        "next_air_utc": "2026-03-20T16:35:00Z",
         "mal_url": "https://myanimelist.net/anime/60460/Hell_Mode__Yarikomizuki_no_Gamer_wa_Hai_Settei_no_Isekai_de_Musou_suru"
       },
       {
@@ -1218,9 +1218,9 @@
         "airing_day": "saturday",
         "airing_time": "22:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-14T13:00:00Z",
+        "next_air_utc": "2026-03-18T13:00:00Z",
         "mal_url": "https://myanimelist.net/anime/61549/Okiraku_Ryoushu_no_Tanoshii_Ryouchi_Bouei__Seisankei_Majutsu_de_Na_mo_Naki_Mura_wo_Saikyou_no_Jousai_Toshi_ni"
       },
       {
@@ -1237,9 +1237,9 @@
         "airing_day": "saturday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 11,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-14T14:00:00Z",
+        "next_air_utc": "2026-03-21T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/54863/Trigun_Stargaze"
       },
       {
@@ -1255,9 +1255,9 @@
         "airing_day": "saturday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 12,
         "total_episodes": 13,
-        "next_air_utc": "2026-03-14T14:30:00Z",
+        "next_air_utc": "2026-03-21T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/55830/Fate_strange_Fake"
       },
       {
@@ -1274,9 +1274,9 @@
         "airing_day": "saturday",
         "airing_time": "23:45",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 23,
+        "next_episode": 20,
         "total_episodes": 22,
-        "next_air_utc": "2026-03-14T14:45:00Z",
+        "next_air_utc": "2026-03-21T14:45:00Z",
         "mal_url": "https://myanimelist.net/anime/54703/Fumetsu_no_Anata_e_Season_3"
       },
       {
@@ -1293,7 +1293,7 @@
         "airing_day": "saturday",
         "airing_time": "01:53",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 11,
         "total_episodes": 13,
         "next_air_utc": "2026-03-20T16:53:00Z",
         "mal_url": "https://myanimelist.net/anime/59229/Enen_no_Shouboutai__San_no_Shou_Part_2"
@@ -1312,7 +1312,7 @@
         "airing_day": "saturday",
         "airing_time": "18:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 1194,
         "total_episodes": null,
         "next_air_utc": "2026-03-21T09:00:00Z",
         "mal_url": "https://myanimelist.net/anime/235/Meitantei_Conan"
@@ -1331,7 +1331,7 @@
         "airing_day": "sunday",
         "airing_time": "08:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 9,
         "total_episodes": null,
         "next_air_utc": "2026-03-14T23:30:00Z",
         "mal_url": "https://myanimelist.net/anime/62083/Tomica_to_Tom_TV"
@@ -1348,9 +1348,9 @@
         "airing_day": "sunday",
         "airing_time": "07:15",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 49,
         "total_episodes": null,
-        "next_air_utc": "2026-03-14T22:15:00Z",
+        "next_air_utc": "2026-03-14T22:16:00Z",
         "mal_url": "https://myanimelist.net/anime/60596/Sai-Kyo-Oh_Zukan__The_Ultimate_Tournament"
       },
       {
@@ -1367,7 +1367,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-14T12:03:03.786326Z",
+        "next_air_utc": "2026-03-14T18:04:04.829281Z",
         "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
       },
       {
@@ -1380,7 +1380,7 @@
         "airing_day": "sunday",
         "airing_time": "09:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 49,
         "total_episodes": null,
         "next_air_utc": "2026-03-15T00:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61092/Himitsu_no_AiPri__Ring-hen"
@@ -1398,7 +1398,7 @@
         "airing_day": "sunday",
         "airing_time": "08:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 7,
         "total_episodes": null,
         "next_air_utc": "2026-03-14T23:30:00Z",
         "mal_url": "https://myanimelist.net/anime/63042/Meitantei_Precure"
@@ -1415,9 +1415,9 @@
         "airing_day": "sunday",
         "airing_time": "08:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 50,
         "total_episodes": null,
-        "next_air_utc": "2026-03-14T23:00:00Z",
+        "next_air_utc": "2026-03-14T23:28:00Z",
         "mal_url": "https://myanimelist.net/anime/60534/Koupen-chan"
       },
       {
@@ -1430,7 +1430,7 @@
         "airing_day": "sunday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 9,
         "total_episodes": 12,
         "next_air_utc": "2026-03-15T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61084/Hikuidori__Ushuu_Boro_Tobi-gumi"
@@ -1448,7 +1448,7 @@
         "airing_day": "sunday",
         "airing_time": "09:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 49,
+        "next_episode": 46,
         "total_episodes": 48,
         "next_air_utc": "2026-03-15T00:00:00Z",
         "mal_url": "https://myanimelist.net/anime/59078/Princession_Orchestra"
@@ -1482,7 +1482,7 @@
         "airing_day": "sunday",
         "airing_time": "09:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 25,
+        "next_episode": 22,
         "total_episodes": 24,
         "next_air_utc": "2026-03-15T00:30:00Z",
         "mal_url": "https://myanimelist.net/anime/62126/SI-VIS__The_Sound_of_Heroes"
@@ -1499,7 +1499,7 @@
         "airing_day": "sunday",
         "airing_time": "18:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 2823,
         "total_episodes": null,
         "next_air_utc": "2026-03-15T09:30:00Z",
         "mal_url": "https://myanimelist.net/anime/2406/Sazae-san"
@@ -1517,9 +1517,9 @@
         "airing_day": "sunday",
         "airing_time": "00:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 11,
         "total_episodes": 13,
-        "next_air_utc": "2026-03-14T15:00:00Z",
+        "next_air_utc": "2026-03-21T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/62432/Jingai_Kyoushitsu_no_Ningengirai_Kyoushi"
       },
       {
@@ -1535,9 +1535,9 @@
         "airing_day": "sunday",
         "airing_time": "00:55",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 25,
+        "next_episode": 11,
         "total_episodes": 24,
-        "next_air_utc": "2026-03-14T15:55:00Z",
+        "next_air_utc": "2026-03-21T15:56:00Z",
         "mal_url": "https://myanimelist.net/anime/61217/Yuusha_no_Kuzu"
       },
       {
@@ -1554,7 +1554,7 @@
         "airing_day": "sunday",
         "airing_time": "09:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 22,
         "total_episodes": null,
         "next_air_utc": "2026-03-15T00:00:00Z",
         "mal_url": "https://myanimelist.net/anime/61269/Digimon_Beatbreak"
@@ -1571,9 +1571,9 @@
         "airing_day": "sunday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 12,
         "total_episodes": null,
-        "next_air_utc": "2026-03-15T14:30:00Z",
+        "next_air_utc": "2026-03-19T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/60602/MF_Ghost_3rd_Season"
       },
       {
@@ -1588,7 +1588,7 @@
         "airing_day": "sunday",
         "airing_time": "21:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 12,
         "total_episodes": 12,
         "next_air_utc": "2026-03-15T12:30:00Z",
         "mal_url": "https://myanimelist.net/anime/58861/Hanazakari_no_Kimitachi_e"
@@ -1606,9 +1606,9 @@
         "airing_day": "sunday",
         "airing_time": "01:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 10,
+        "next_episode": 9,
         "total_episodes": 9,
-        "next_air_utc": "2026-03-14T16:30:00Z",
+        "next_air_utc": "2026-03-21T16:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61335/Medalist_2nd_Season"
       },
       {
@@ -1624,7 +1624,7 @@
         "airing_day": "sunday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 10,
         "total_episodes": 12,
         "next_air_utc": "2026-03-15T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/62000/Akuyaku_Reijou_wa_Ringoku_no_Outaishi_ni_Dekiai_sareru"
@@ -1642,7 +1642,7 @@
         "airing_day": "sunday",
         "airing_time": "17:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 10,
         "total_episodes": 12,
         "next_air_utc": "2026-03-15T08:30:00Z",
         "mal_url": "https://myanimelist.net/anime/60223/Kaya-chan_wa_Kowakunai"
@@ -1662,7 +1662,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 22,
         "total_episodes": 21,
-        "next_air_utc": "2026-03-14T15:00:00Z",
+        "next_air_utc": "2026-03-21T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/60427/Gnosia"
       },
       {
@@ -1677,7 +1677,7 @@
         "airing_day": "sunday",
         "airing_time": "22:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 12,
         "total_episodes": 13,
         "next_air_utc": "2026-03-15T13:00:00Z",
         "mal_url": "https://myanimelist.net/anime/60810/Majutsushi_Kunon_wa_Mieteiru"
@@ -1695,9 +1695,9 @@
         "airing_day": "sunday",
         "airing_time": "00:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 25,
+        "next_episode": 24,
         "total_episodes": 24,
-        "next_air_utc": "2026-03-14T15:30:00Z",
+        "next_air_utc": "2026-03-21T15:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61159/Toujima_Tanzaburou_wa_Kamen_Rider_ni_Naritai"
       },
       {
@@ -1712,7 +1712,7 @@
         "airing_day": "sunday",
         "airing_time": "16:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 10,
         "total_episodes": 12,
         "next_air_utc": "2026-03-15T07:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61663/Uruwashi_no_Yoi_no_Tsuki"
@@ -1730,9 +1730,9 @@
         "airing_day": "sunday",
         "airing_time": "01:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 12,
         "total_episodes": 13,
-        "next_air_utc": "2026-03-14T16:00:00Z",
+        "next_air_utc": "2026-03-18T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/59047/Tamon-kun_Ima_Docchi"
       },
       {
@@ -1747,9 +1747,9 @@
         "airing_day": "sunday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 14,
+        "next_episode": 11,
         "total_episodes": 13,
-        "next_air_utc": "2026-03-15T14:00:00Z",
+        "next_air_utc": "2026-03-15T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/58788/Ikoku_Nikki"
       },
       {
@@ -1766,9 +1766,9 @@
         "airing_day": "sunday",
         "airing_time": "22:30",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 12,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-15T13:30:00Z",
+        "next_air_utc": "2026-03-18T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/61128/Yuusha_Party_wo_Oidasareta_Kiyoubinbou"
       },
       {
@@ -1784,7 +1784,7 @@
         "airing_day": "sunday",
         "airing_time": "17:00",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 10,
         "total_episodes": 12,
         "next_air_utc": "2026-03-15T08:00:00Z",
         "mal_url": "https://myanimelist.net/anime/60371/Seihantai_na_Kimi_to_Boku"
@@ -1803,9 +1803,9 @@
         "airing_day": "sunday",
         "airing_time": "23:45",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 13,
+        "next_episode": 10,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-15T14:45:00Z",
+        "next_air_utc": "2026-03-15T14:44:00Z",
         "mal_url": "https://myanimelist.net/anime/55825/Jigokuraku_2nd_Season"
       },
       {
@@ -1822,9 +1822,9 @@
         "airing_day": "sunday",
         "airing_time": "23:15",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
+        "next_episode": 1156,
         "total_episodes": null,
-        "next_air_utc": "2026-03-15T14:15:00Z",
+        "next_air_utc": "2026-04-05T14:16:00Z",
         "mal_url": "https://myanimelist.net/anime/21/One_Piece"
       }
     ]
