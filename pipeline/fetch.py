@@ -1,4 +1,4 @@
-"""Main entry point: fetches anime schedule data from Jikan API v4."""
+"""Main entry point: fetches anime schedule data from Jikan API v4 and AniList."""
 
 import logging
 import time
@@ -6,8 +6,9 @@ from typing import Any
 
 import requests
 
+from pipeline.anilist import fetch_anilist_airing
 from pipeline.transform import transform_schedule
-from pipeline.writer import write_last_updated, write_schedule
+from pipeline.writer import write_last_updated, write_raw_json, write_schedule
 
 logger = logging.getLogger(__name__)
 
@@ -81,21 +82,39 @@ def main() -> None:
 
     logger.info("Starting Airukan data pipeline")
 
-    # Step 1: Fetch
+    # Step 1: Fetch from Jikan
     logger.info("Fetching schedules from Jikan API...")
     raw_by_day = fetch_all_schedules()
 
     total = sum(len(v) for v in raw_by_day.values())
     logger.info("Fetched %d total anime entries across all days", total)
 
-    # Step 2: Transform
+    # Save Jikan raw data
+    jikan_path = write_raw_json(raw_by_day, "jikan_raw.json")
+    logger.info("Saved Jikan raw data to %s", jikan_path)
+
+    # Step 2: Fetch airing info from AniList
+    logger.info("Fetching airing data from AniList...")
+    all_mal_ids = [
+        entry["mal_id"]
+        for entries in raw_by_day.values()
+        for entry in entries
+        if entry.get("mal_id")
+    ]
+    anilist_data = fetch_anilist_airing(all_mal_ids)
+
+    # Save AniList raw data
+    anilist_path = write_raw_json(anilist_data, "anilist_raw.json")
+    logger.info("Saved AniList raw data to %s", anilist_path)
+
+    # Step 3: Transform (merge both sources)
     logger.info("Transforming data...")
-    week = transform_schedule(raw_by_day)
+    week = transform_schedule(raw_by_day, anilist_data=anilist_data)
 
     transformed_total = sum(len(v) for v in week.values())
     logger.info("Transformed %d entries", transformed_total)
 
-    # Step 3: Write
+    # Step 4: Write final output
     logger.info("Writing output files...")
     schedule_path = write_schedule(week)
     logger.info("Wrote %s", schedule_path)

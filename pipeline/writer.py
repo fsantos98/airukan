@@ -4,6 +4,7 @@ import json
 import os
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Any
 
 from pipeline.schema import AnimeEntry, LastUpdated, Schedule
 
@@ -48,12 +49,32 @@ def write_last_updated(data_dir: Path | None = None) -> Path:
 
     metadata = LastUpdated(
         utc=datetime.now(timezone.utc),
-        source="jikan-v4",
+        source="jikan-v4+anilist",
     )
 
     output_path = data_dir / "last_updated.json"
     output_path.write_text(
         metadata.model_dump_json(indent=2),
+        encoding="utf-8",
+    )
+    return output_path
+
+
+def write_raw_json(
+    data: Any,
+    filename: str,
+    data_dir: Path | None = None,
+) -> Path:
+    """Write raw API response data to a JSON file for debugging/recovery.
+
+    Returns the path to the written file.
+    """
+    data_dir = data_dir or _default_data_dir()
+    data_dir.mkdir(parents=True, exist_ok=True)
+
+    output_path = data_dir / filename
+    output_path.write_text(
+        json.dumps(data, indent=2, ensure_ascii=False, default=str),
         encoding="utf-8",
     )
     return output_path

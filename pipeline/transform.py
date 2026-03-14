@@ -102,9 +102,13 @@ def _normalize_day(day_str: Optional[str]) -> str:
     return normalized
 
 
-def transform_anime(raw: dict[str, Any]) -> Optional[AnimeEntry]:
+def transform_anime(
+    raw: dict[str, Any],
+    anilist_airing: Optional[dict[str, Any]] = None,
+) -> Optional[AnimeEntry]:
     """Transform a single raw Jikan anime object into an AnimeEntry.
 
+    Uses AniList airing data when available for more accurate episode info.
     Returns None if the entry lacks required fields (id, title).
     """
     mal_id = raw.get("mal_id")
@@ -119,6 +123,10 @@ def transform_anime(raw: dict[str, Any]) -> Optional[AnimeEntry]:
     cover = images.get("jpg", {}).get("large_image_url", "")
     if not cover:
         cover = images.get("jpg", {}).get("image_url", "")
+
+    type_ = raw.get("type", "")
+    if not type_:
+        type_ = "Unknown"
 
     genres = _extract_genres(raw.get("genres", []))
     score = raw.get("score")
@@ -135,17 +143,20 @@ def transform_anime(raw: dict[str, Any]) -> Optional[AnimeEntry]:
         (broadcast.get("timezone") or "Asia/Tokyo") if broadcast else "Asia/Tokyo"
     )
 
-    # Episode info
-    aired_episodes = raw.get("episodes", 0) or 0
-    airing_status = raw.get("status", "")
-    if airing_status == "Currently Airing":
-        next_episode = aired_episodes + 1
+    # Episode info — prefer AniList data when available
+    if anilist_airing:
+        next_episode = anilist_airing.get("episode", 1)
+        airing_at = anilist_airing.get("airingAt")
+        if airing_at:
+            next_air_utc = datetime.fromtimestamp(airing_at, tz=timezone.utc)
+        else:
+            next_air_utc = _compute_next_air_utc(airing_day, airing_time, broadcast_timezone)
     else:
+        aired_episodes = raw.get("episodes", 0) or 0
         next_episode = aired_episodes + 1
+        next_air_utc = _compute_next_air_utc(airing_day, airing_time, broadcast_timezone)
 
     total_episodes = raw.get("episodes")
-
-    next_air_utc = _compute_next_air_utc(airing_day, airing_time, broadcast_timezone)
 
     mal_url = raw.get("url", f"https://myanimelist.net/anime/{mal_id}")
 
@@ -166,11 +177,16 @@ def transform_anime(raw: dict[str, Any]) -> Optional[AnimeEntry]:
     )
 
 
-def transform_schedule(raw_by_day: dict[str, list[dict[str, Any]]]) -> dict[str, list[AnimeEntry]]:
+def transform_schedule(
+    raw_by_day: dict[str, list[dict[str, Any]]],
+    anilist_data: Optional[dict[int, dict[str, Any]]] = None,
+) -> dict[str, list[AnimeEntry]]:
     """Transform a dict of day -> raw anime list into day -> AnimeEntry list.
 
+    When anilist_data is provided, it is used to enrich episode/airing info.
     Entries that fail transformation are silently skipped.
     """
+    anilist_data = anilist_data or {}
     week: dict[str, list[AnimeEntry]] = {}
     valid_days = [
         "monday",
@@ -186,7 +202,9 @@ def transform_schedule(raw_by_day: dict[str, list[dict[str, Any]]]) -> dict[str,
         raw_list = raw_by_day.get(day, [])
         entries = []
         for raw in raw_list:
-            entry = transform_anime(raw)
+            mal_id = raw.get("mal_id")
+            airing = anilist_data.get(mal_id) if mal_id else None
+            entry = transform_anime(raw, anilist_airing=airing)
             if entry is not None:
                 # Override airing_day to match the schedule day
                 entry.airing_day = day

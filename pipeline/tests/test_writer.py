@@ -7,7 +7,7 @@ from pathlib import Path
 import pytest
 
 from pipeline.schema import AnimeEntry
-from pipeline.writer import write_last_updated, write_schedule
+from pipeline.writer import write_last_updated, write_raw_json, write_schedule
 
 
 @pytest.fixture()
@@ -97,7 +97,7 @@ class TestWriteLastUpdated:
         data = json.loads(path.read_text(encoding="utf-8"))
         assert "utc" in data
         assert "source" in data
-        assert data["source"] == "jikan-v4"
+        assert data["source"] == "jikan-v4+anilist"
 
     def test_timestamp_is_recent(self, tmp_data_dir: Path) -> None:
         """Written timestamp is close to current time."""
@@ -106,3 +106,26 @@ class TestWriteLastUpdated:
         data = json.loads(path.read_text(encoding="utf-8"))
         timestamp = datetime.fromisoformat(data["utc"])
         assert timestamp >= before
+
+
+class TestWriteRawJson:
+    """Tests for write_raw_json."""
+
+    def test_creates_file(self, tmp_data_dir: Path) -> None:
+        """Creates the specified JSON file."""
+        path = write_raw_json({"key": "value"}, "test_raw.json", data_dir=tmp_data_dir)
+        assert path.exists()
+        assert path.name == "test_raw.json"
+
+    def test_valid_json(self, tmp_data_dir: Path) -> None:
+        """Written file contains valid JSON matching input."""
+        data = {"ids": [1, 2, 3], "nested": {"a": "b"}}
+        path = write_raw_json(data, "test_raw.json", data_dir=tmp_data_dir)
+        written = json.loads(path.read_text(encoding="utf-8"))
+        assert written == data
+
+    def test_creates_directory(self, tmp_data_dir: Path) -> None:
+        """Creates the data directory if it doesn't exist."""
+        assert not tmp_data_dir.exists()
+        write_raw_json({"x": 1}, "test.json", data_dir=tmp_data_dir)
+        assert tmp_data_dir.exists()

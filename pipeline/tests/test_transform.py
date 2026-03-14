@@ -188,6 +188,42 @@ class TestTransformAnime:
         assert result.airing_time == "Unknown"
 
 
+class TestTransformAnimeWithAnilist:
+    """Tests for transform_anime with AniList airing data."""
+
+    def test_uses_anilist_episode(self) -> None:
+        """Should use AniList episode number when provided."""
+        raw = _make_raw_anime(episodes=12)
+        anilist = {"episode": 5, "airingAt": 1741996800, "timeUntilAiring": 3600}
+        result = transform_anime(raw, anilist_airing=anilist)
+        assert result is not None
+        assert result.next_episode == 5
+
+    def test_uses_anilist_airing_time(self) -> None:
+        """Should use AniList airingAt for next_air_utc."""
+        raw = _make_raw_anime()
+        anilist = {"episode": 3, "airingAt": 1741996800, "timeUntilAiring": 3600}
+        result = transform_anime(raw, anilist_airing=anilist)
+        assert result is not None
+        assert result.next_air_utc == datetime(2025, 3, 15, 0, 0, 0, tzinfo=timezone.utc)
+
+    def test_falls_back_without_anilist(self) -> None:
+        """Should use Jikan-based logic when no AniList data."""
+        raw = _make_raw_anime(episodes=12)
+        result = transform_anime(raw, anilist_airing=None)
+        assert result is not None
+        assert result.next_episode == 13  # episodes + 1
+
+    def test_falls_back_without_airing_at(self) -> None:
+        """Should compute next_air_utc from Jikan when airingAt is missing."""
+        raw = _make_raw_anime()
+        anilist = {"episode": 5}
+        result = transform_anime(raw, anilist_airing=anilist)
+        assert result is not None
+        assert result.next_episode == 5
+        assert result.next_air_utc.tzinfo is not None
+
+
 class TestTransformSchedule:
     """Tests for transform_schedule."""
 
