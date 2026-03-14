@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T12:05:41.919621Z",
+  "generated_at": "2026-03-14T00:07:47.020778Z",
   "week": {
     "monday": [
       {
@@ -16,7 +16,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 27,
         "total_episodes": 26,
-        "next_air_utc": "2026-03-13T12:05:41.912865Z",
+        "next_air_utc": "2026-03-14T00:07:47.015164Z",
         "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
       },
       {
@@ -95,7 +95,7 @@
           "Horror",
           "Supernatural"
         ],
-        "score": 5.88,
+        "score": 5.87,
         "airing_day": "monday",
         "airing_time": "02:20",
         "broadcast_timezone": "Asia/Tokyo",
@@ -114,7 +114,7 @@
           "Horror",
           "Supernatural"
         ],
-        "score": 5.88,
+        "score": 5.87,
         "airing_day": "monday",
         "airing_time": "02:20",
         "broadcast_timezone": "Asia/Tokyo",
@@ -256,7 +256,7 @@
           "Boys Love",
           "Fantasy"
         ],
-        "score": 5.53,
+        "score": 5.51,
         "airing_day": "tuesday",
         "airing_time": "21:55",
         "broadcast_timezone": "Asia/Tokyo",
@@ -271,8 +271,8 @@
         "title_en": "Yoroi-Shinden Samurai Troopers",
         "cover": "https://myanimelist.net/images/anime/1289/153952l.jpg",
         "genres": [
-          "Adventure",
-          "Sci-Fi"
+          "Action",
+          "Fantasy"
         ],
         "score": 6.31,
         "airing_day": "tuesday",
@@ -347,7 +347,7 @@
           "Fantasy",
           "Romance"
         ],
-        "score": 6.3,
+        "score": 6.29,
         "airing_day": "tuesday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -365,7 +365,7 @@
           "Comedy",
           "Romance"
         ],
-        "score": 7.24,
+        "score": 7.25,
         "airing_day": "tuesday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -525,7 +525,7 @@
           "Action",
           "Suspense"
         ],
-        "score": 7.54,
+        "score": 7.53,
         "airing_day": "wednesday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -634,7 +634,7 @@
           "Mystery",
           "Supernatural"
         ],
-        "score": 7.02,
+        "score": 7.01,
         "airing_day": "thursday",
         "airing_time": "23:56",
         "broadcast_timezone": "Asia/Tokyo",
@@ -714,8 +714,8 @@
         "airing_day": "friday",
         "airing_time": "01:58",
         "broadcast_timezone": "Asia/Tokyo",
-        "next_episode": 1,
-        "total_episodes": null,
+        "next_episode": 49,
+        "total_episodes": 48,
         "next_air_utc": "2026-03-19T16:58:00Z",
         "mal_url": "https://myanimelist.net/anime/60947/Nmeneko"
       },
@@ -734,7 +734,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-13T14:30:00Z",
+        "next_air_utc": "2026-03-20T14:30:00Z",
         "mal_url": "https://myanimelist.net/anime/62804/High_School_Kimengumi_2026"
       },
       {
@@ -853,7 +853,7 @@
           "Fantasy",
           "Romance"
         ],
-        "score": 7.04,
+        "score": 7.03,
         "airing_day": "friday",
         "airing_time": "01:58",
         "broadcast_timezone": "Asia/Tokyo",
@@ -954,7 +954,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 11,
         "total_episodes": 10,
-        "next_air_utc": "2026-03-13T14:00:00Z",
+        "next_air_utc": "2026-03-20T14:00:00Z",
         "mal_url": "https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season"
       }
     ],
@@ -974,7 +974,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T20:00:00Z",
+        "next_air_utc": "2026-03-20T20:00:00Z",
         "mal_url": "https://myanimelist.net/anime/63106/Hoppe-chan__Sun_Oukoku_to_Kuro_Hoppe-dan_no_Himitsu"
       },
       {
@@ -991,7 +991,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T21:00:00Z",
+        "next_air_utc": "2026-03-20T21:00:00Z",
         "mal_url": "https://myanimelist.net/anime/62231/Jochum_Season_2"
       },
       {
@@ -1028,7 +1028,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T23:30:00Z",
+        "next_air_utc": "2026-03-20T23:30:00Z",
         "mal_url": "https://myanimelist.net/anime/18941/Shimajirou_no_Wow"
       },
       {
@@ -1045,7 +1045,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T22:00:00Z",
+        "next_air_utc": "2026-03-20T22:00:00Z",
         "mal_url": "https://myanimelist.net/anime/60070/Kaijuu_Sekai_Seifuku_TV"
       },
       {
@@ -1062,7 +1062,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T23:00:00Z",
+        "next_air_utc": "2026-03-20T23:00:00Z",
         "mal_url": "https://myanimelist.net/anime/62649/Cardfight_Vanguard__Divinez_Genma_Seisen-hen"
       },
       {
@@ -1096,7 +1096,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T22:00:00Z",
+        "next_air_utc": "2026-03-20T22:00:00Z",
         "mal_url": "https://myanimelist.net/anime/50418/Ninjala_TV"
       },
       {
@@ -1113,7 +1113,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T19:52:00Z",
+        "next_air_utc": "2026-03-20T19:52:00Z",
         "mal_url": "https://myanimelist.net/anime/32353/Bonobono_TV_2016"
       },
       {
@@ -1141,13 +1141,13 @@
         "genres": [
           "Fantasy"
         ],
-        "score": 6.5,
+        "score": 6.49,
         "airing_day": "saturday",
         "airing_time": "00:00",
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-13T15:00:00Z",
+        "next_air_utc": "2026-03-20T15:00:00Z",
         "mal_url": "https://myanimelist.net/anime/59853/Dark_Moon__Tsuki_no_Saidan"
       },
       {
@@ -1160,7 +1160,7 @@
           "Adventure",
           "Fantasy"
         ],
-        "score": 6.47,
+        "score": 6.48,
         "airing_day": "saturday",
         "airing_time": "21:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1178,7 +1178,7 @@
           "Action",
           "Supernatural"
         ],
-        "score": 6.38,
+        "score": 6.37,
         "airing_day": "saturday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1203,7 +1203,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 13,
         "total_episodes": 12,
-        "next_air_utc": "2026-03-13T16:05:00Z",
+        "next_air_utc": "2026-03-20T16:05:00Z",
         "mal_url": "https://myanimelist.net/anime/60460/Hell_Mode__Yarikomizuki_no_Gamer_wa_Hai_Settei_no_Isekai_de_Musou_suru"
       },
       {
@@ -1214,7 +1214,7 @@
         "genres": [
           "Fantasy"
         ],
-        "score": 6.84,
+        "score": 6.83,
         "airing_day": "saturday",
         "airing_time": "22:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1251,7 +1251,7 @@
           "Action",
           "Fantasy"
         ],
-        "score": 8.5,
+        "score": 8.51,
         "airing_day": "saturday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1295,7 +1295,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 14,
         "total_episodes": 13,
-        "next_air_utc": "2026-03-13T16:53:00Z",
+        "next_air_utc": "2026-03-20T16:53:00Z",
         "mal_url": "https://myanimelist.net/anime/59229/Enen_no_Shouboutai__San_no_Shou_Part_2"
       },
       {
@@ -1367,7 +1367,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-13T12:05:41.918860Z",
+        "next_air_utc": "2026-03-14T00:07:47.020142Z",
         "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
       },
       {
@@ -1478,7 +1478,7 @@
         "genres": [
           "Action"
         ],
-        "score": 6.0,
+        "score": 6.01,
         "airing_day": "sunday",
         "airing_time": "09:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1550,7 +1550,7 @@
           "Fantasy",
           "Sci-Fi"
         ],
-        "score": 7.07,
+        "score": 7.08,
         "airing_day": "sunday",
         "airing_time": "09:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1602,7 +1602,7 @@
           "Drama",
           "Sports"
         ],
-        "score": 8.45,
+        "score": 8.46,
         "airing_day": "sunday",
         "airing_time": "01:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1620,7 +1620,7 @@
           "Fantasy",
           "Romance"
         ],
-        "score": 6.12,
+        "score": 6.11,
         "airing_day": "sunday",
         "airing_time": "23:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1762,7 +1762,7 @@
           "Adventure",
           "Fantasy"
         ],
-        "score": 6.66,
+        "score": 6.65,
         "airing_day": "sunday",
         "airing_time": "22:30",
         "broadcast_timezone": "Asia/Tokyo",
