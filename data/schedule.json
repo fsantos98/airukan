@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T00:07:47.020778Z",
+  "generated_at": "2026-03-14T06:10:23.912636Z",
   "week": {
     "monday": [
       {
@@ -16,7 +16,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 27,
         "total_episodes": 26,
-        "next_air_utc": "2026-03-14T00:07:47.015164Z",
+        "next_air_utc": "2026-03-14T06:10:23.905351Z",
         "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
       },
       {
@@ -167,7 +167,7 @@
         "genres": [
           "Slice of Life"
         ],
-        "score": 6.86,
+        "score": 6.85,
         "airing_day": "monday",
         "airing_time": "22:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -873,7 +873,7 @@
           "Fantasy",
           "Girls Love"
         ],
-        "score": 6.45,
+        "score": 6.43,
         "airing_day": "friday",
         "airing_time": "00:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -911,7 +911,7 @@
           "Comedy",
           "Ecchi"
         ],
-        "score": 7.81,
+        "score": 7.82,
         "airing_day": "friday",
         "airing_time": "19:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1056,7 +1056,7 @@
         "genres": [
           "Action"
         ],
-        "score": 6.41,
+        "score": 6.4,
         "airing_day": "saturday",
         "airing_time": "08:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1124,7 +1124,7 @@
         "genres": [
           "Action"
         ],
-        "score": 7.04,
+        "score": 7.05,
         "airing_day": "saturday",
         "airing_time": "17:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1270,7 +1270,7 @@
           "Drama",
           "Supernatural"
         ],
-        "score": 7.59,
+        "score": 7.58,
         "airing_day": "saturday",
         "airing_time": "23:45",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1367,7 +1367,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-14T00:07:47.020142Z",
+        "next_air_utc": "2026-03-14T06:10:23.911861Z",
         "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
       },
       {
@@ -1394,7 +1394,7 @@
           "Action",
           "Mystery"
         ],
-        "score": 7.53,
+        "score": 7.52,
         "airing_day": "sunday",
         "airing_time": "08:30",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1444,7 +1444,7 @@
           "Action",
           "Fantasy"
         ],
-        "score": 6.86,
+        "score": 6.88,
         "airing_day": "sunday",
         "airing_time": "09:00",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1567,7 +1567,7 @@
         "genres": [
           "Drama"
         ],
-        "score": 7.89,
+        "score": 7.9,
         "airing_day": "sunday",
         "airing_time": "23:30",
         "broadcast_timezone": "Asia/Tokyo",
