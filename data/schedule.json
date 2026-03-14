@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T06:10:23.912636Z",
+  "generated_at": "2026-03-14T12:03:03.787203Z",
   "week": {
     "monday": [
       {
@@ -16,7 +16,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 27,
         "total_episodes": 26,
-        "next_air_utc": "2026-03-14T06:10:23.905351Z",
+        "next_air_utc": "2026-03-14T12:03:03.776807Z",
         "mal_url": "https://myanimelist.net/anime/62523/Uso_Tantei_Tomanto"
       },
       {
@@ -746,7 +746,7 @@
           "Comedy",
           "Fantasy"
         ],
-        "score": 6.67,
+        "score": 6.68,
         "airing_day": "friday",
         "airing_time": "16:20",
         "broadcast_timezone": "Asia/Tokyo",
@@ -1009,7 +1009,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 20,
         "total_episodes": 19,
-        "next_air_utc": "2026-03-14T09:25:00Z",
+        "next_air_utc": "2026-03-21T09:25:00Z",
         "mal_url": "https://myanimelist.net/anime/60983/Kagaku_x_Bouken_Survival_2nd_Season"
       },
       {
@@ -1130,7 +1130,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-14T08:30:00Z",
+        "next_air_utc": "2026-03-21T08:30:00Z",
         "mal_url": "https://myanimelist.net/anime/61333/Ao_no_Miburo__Serizawa_Ansatsu-hen"
       },
       {
@@ -1314,7 +1314,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-14T09:00:00Z",
+        "next_air_utc": "2026-03-21T09:00:00Z",
         "mal_url": "https://myanimelist.net/anime/235/Meitantei_Conan"
       }
     ],
@@ -1367,7 +1367,7 @@
         "broadcast_timezone": "Asia/Tokyo",
         "next_episode": 1,
         "total_episodes": null,
-        "next_air_utc": "2026-03-14T06:10:23.911861Z",
+        "next_air_utc": "2026-03-14T12:03:03.786326Z",
         "mal_url": "https://myanimelist.net/anime/38776/Manul_no_Yuube"
       },
       {
@@ -1495,7 +1495,7 @@
         "genres": [
           "Comedy"
         ],
-        "score": 6.16,
+        "score": 6.15,
         "airing_day": "sunday",
         "airing_time": "18:30",
         "broadcast_timezone": "Asia/Tokyo",
